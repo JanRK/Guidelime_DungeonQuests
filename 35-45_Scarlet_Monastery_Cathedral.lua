@@ -1,8 +1,8 @@
 Guidelime.registerGuide([[
-[D Quests for Scarlet Monastery - Graveyard \\ https://github.com/JanRK/Guidelime_DungeonQuests]
+[D Quests for Scarlet Monastery - Cathedral \\ https://github.com/JanRK/Guidelime_DungeonQuests]
 [GA Horde]
-[N 26-36 Scarlet Monastery Graveyard]
-[NX 29-38 Gnomeregan]
+[N 35-45 Scarlet Monastery Cathedral]
+[NX 37-46 Razorfen Downs]
 
 
 Go to Undercity and accept [QA1048 Into The Scarlet Monastery] [G56.2,92.6 Undercity]. Need to be level [XP33]
