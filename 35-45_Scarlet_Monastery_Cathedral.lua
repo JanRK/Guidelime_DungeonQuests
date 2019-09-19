@@ -7,22 +7,9 @@ Guidelime.registerGuide([[
 
 Go to Undercity and accept [QA1048 Into The Scarlet Monastery] [G56.2,92.6 Undercity]. Need to be level [XP33]
 
+Complete [QC1048 Into The Scarlet Monastery] \\ This requires killing the bosses in both Library and Armory.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Go to Undercity and turn in [QT1048 Into The Scarlet Monastery] [G56.2,92.6 Undercity]
 
 
 ]], 'DungeonQuests - JanRK')
