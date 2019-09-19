@@ -1,6 +1,6 @@
 ## Title: Guidelime_DungeonQuests
 ## Author: JanRK
-## Version: 0.5
+## Version: 0.6
 ## Interface: 11302
 ## Dependencies: Guidelime
 ## Notes: All relevant quests for dungeon rewards/xp/keys.
@@ -18,7 +18,7 @@
 32-42_Scarlet_Monastery_Armory.lua
 35-45_Scarlet_Monastery_Cathedral.lua
 37-46_Razorfen_Downs.lua
-H41-51_Uldaman.lua
+41-51_Uldaman.lua
 42-46_Zul_Farrak.lua
 46-55_Maraudon.lua
 50-56_The_Temple_of_Atal_Hakkar.lua
