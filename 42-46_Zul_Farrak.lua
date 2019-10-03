@@ -28,9 +28,7 @@ Accept [QA2768 Divino-matic Rod][G52.4,28.4 Tanaris]
 To to Zul Farrak [G38,18 Tanaris] and complete:\\[QC2936 The Spider God] - Click the tablet in the same area as Theka the Martyr\\[QC2846 Tiara of the Deep] - Drops from Hydromancer Velratha\\[QC2770 Gahzrilla] - Use the *Mallet of Zul'Farrak* to ring the gong at the end of Zul'Farrak. This will summon Gahz'rilla\\[QC3042 Troll Temper] - Drops from trolls in ZF\\[QC2865 Scarab Shells] - Drops from Scarabs in ZF\\[QC2768 Divino-matic Rod] - Drops from Sergeant Bly\\[QC3527 The Prophecy of Mosharu] - 1 drops from Theka the Martyr and 1 drops from Hydromancer Velratha
 
 
-Turn in [QT3042 Troll Temper][G51.4,28.6 Tanaris]
-Turn in [QT2865 Scarab Shells][G51.6,26.8 Tanaris]
-Turn in [QT2768 Divino-matic Rod][G52.4,28.4 Tanaris]
+Turn in [QT3042 Troll Temper][G51.4,28.6 Tanaris] \\ Turn in [QT2865 Scarab Shells][G51.6,26.8 Tanaris] \\ Turn in [QT2768 Divino-matic Rod][G52.4,28.4 Tanaris]
 Turn in [QT3527 The Prophecy of Mosharu][G67,22.4 Tanaris] \\ You get a followup that ends in Sunken Temple, that will be a part of that guide.
 Go to Shimmering Flats in Thousand Needles turn in [QT2770 Gahzrilla][G78,77 Thousand Needles]
 Go to Dustwallow Marsh and turn in [QT2846 Tiara of the Deep][G46,57 Dustwallow Marsh]
