@@ -15,14 +15,15 @@ Go to Durotar and turn in [QT2935 Consult Master Gadrin][G56,74.6 Durotar]\\ Acc
 
 
 Go to Orgrimmar and accept [QA2861 Tabethas Task][G38.4,85.8 Orgrimmar]
+
+Fly to Ratchet, and sail to Booty Bay. Accept [QA2864 Tran'rek][G27,77.2 Stranglethorn Vale] from Krazek on the top and back of the Tavern
+
 Go to Dustwallow Marsh and turn in [QT2861 Tabethas Task][G46,57 Dustwallow Marsh] \\ Accept [QA2846 Tiara of the Deep]
 Go to Shimmering Flats in Thousand Needles and accept [QA2770 Gahzrilla][G78,77 Thousand Needles] \\ To complete this quest, someone in the group need a *Mallet of Zul'Farrak*. This item is obtained in The Hinterlands.
 Go to Tanaris and accept [QA3520 Screecher Spirits][G67,22.4 Tanaris]
 Go to Feralas and complete [QC3520 Screecher Spirits]
 Go to Tanaris and turn in [QT3520 Screecher Spirits][G67,22.4 Tanaris]\\ Accept followup [QA3527 The Prophecy of Mosharu]
-Accept [QA3042 Troll Temper][G51.4,28.6 Tanaris]
-Accept [QA2865 Scarab Shells][G51.6,26.8 Tanaris]
-Accept [QA2768 Divino-matic Rod][G52.4,28.4 Tanaris]
+Turn in [QT2864 Tran'rek][G51.6,26.8 Tanaris] in Gadgetzan\\Accept [QA2865 Scarab Shells][G51.6,26.8 Tanaris]\\Accept [QA3042 Troll Temper][G51.4,28.6 Tanaris]\\Accept [QA2768 Divino-matic Rod][G52.4,28.4 Tanaris]
 
 
 To to Zul Farrak [G38,18 Tanaris] and complete:\\[QC2936 The Spider God] - Click the tablet in the same area as Theka the Martyr\\[QC2846 Tiara of the Deep] - Drops from Hydromancer Velratha\\[QC2770 Gahzrilla] - Use the *Mallet of Zul'Farrak* to ring the gong at the end of Zul'Farrak. This will summon Gahz'rilla\\[QC3042 Troll Temper] - Drops from trolls in ZF\\[QC2865 Scarab Shells] - Drops from Scarabs in ZF\\[QC2768 Divino-matic Rod] - Drops from Sergeant Bly\\[QC3527 The Prophecy of Mosharu] - 1 drops from Theka the Martyr and 1 drops from Hydromancer Velratha
