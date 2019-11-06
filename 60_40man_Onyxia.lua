@@ -33,9 +33,9 @@ Return to Western Plaguelands and turn in [QT6569 Oculus Illusions][G50.8,77.8 W
 Go to Dustwallow Marsh and wear the *Amulet of Draconic Subversion* to turn in [QT6570 Emberstrife][G56.6,87.6 Dustwallow Marsh] \\ Accept [QA6584 The Test of Skulls, Chronalis] \\ Accept [QA6582 The Test of Skulls, Scryer] \\ Accept [QA6583 The Test of Skulls, Somnus]
 
 Find a group/raid and kill the 3 dragons (plus 1 more after these):\\
-Complete [QC6584 The Test of Skulls, Chronalis] in Tanaris\\ 
-Complete [QC6582 The Test of Skulls, Scryer] in Winterspring \\ 
-Complete [QC6583 The Test of Skulls, Somnus] in Swamp of Sorrows \\
+Complete [QC6584 The Test of Skulls, Chronalis] in Tanaris\\
+Complete [QC6582 The Test of Skulls, Scryer] in Winterspring\\
+Complete [QC6583 The Test of Skulls, Somnus] in Swamp of Sorrows
 
 Go to Dustwallow Marsh and wear the *Amulet of Draconic Subversion* to turn in [QT6584 The Test of Skulls, Chronalis], [QT6582 The Test of Skulls, Scryer],[QT6583 The Test of Skulls, Somnus][G56.6,87.6 Dustwallow Marsh] and accept followup [QA6585 The Test of Skulls, Axtroz]
 
