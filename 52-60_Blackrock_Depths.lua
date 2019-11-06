@@ -54,7 +54,7 @@ Go to BRD and complete:\\
 In Badlands, turn in [QT4081 KILL ON SIGHT: Dark Iron Dwarves] [G5.8,47.4 Badlands]
 Turn in [QT3906 Disharmony of Flame] [G3.4,48.2 Badlands] and accept followup [QA3907 Disharmony of Fire] 
 Accept [QA7201 The Last Element] [G3,47.6 Badlands]
-Accept [QA4082 KILL ON SIGHT: High Ranking Dark Iron Officials][G4,46.8 Badlands] 
+Accept [QA4082 KILL ON SIGHT: High Ranking Dark Iron Officials] from the wanted poster[G4,46.8 Badlands] 
 Go to Burning Steppes and turn in [QT4024 A Taste of Flame][G94.8,31.6 Burning Steppes]
 
 
