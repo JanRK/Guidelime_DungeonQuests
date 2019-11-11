@@ -1,6 +1,6 @@
 ## Title: Guidelime_DungeonQuests
 ## Author: JanRK
-## Version: 0.14.1
+## Version: 0.14.2
 ## Interface: 11302
 ## Dependencies: Guidelime
 ## Notes: All relevant quests for dungeon rewards/xp/keys.
