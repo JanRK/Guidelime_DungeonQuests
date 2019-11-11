@@ -5,9 +5,9 @@ Guidelime.registerGuide([[
 
 Go to Eastern Plaguelands and pickup [QA6133 The Ranger Lord's Behest][G26.6,74.8 Eastern Plaguelands]
 Complete [QC6133 The Ranger Lord's Behest]
-Turn in [QT6133 The Ranger Lord's Behest][G26.6,74.8 Eastern Plaguelands]. Accept followup [QA6135 Duskwing, Oh How I Hate Thee...]
-Complete [QC6135 Duskwing, Oh How I Hate Thee...]
-Turn in [QT6135 Duskwing, Oh How I Hate Thee...][G26.6,74.8 Eastern Plaguelands]. Accept followup [QA6163 Ramstein]
+Turn in [QT6133 The Ranger Lord's Behest][G26.6,74.8 Eastern Plaguelands]. Accept followup [QA6135 Duskwing, Oh How I Hate Thee...] and [QA6136 The Corpulent One]
+Complete [QC6135 Duskwing, Oh How I Hate Thee...] and [QC6136 The Corpulent One] - Hard to do with less than 3 people
+Turn in [QT6135 Duskwing, Oh How I Hate Thee...] and [QT6136 The Corpulent One][G26.6,74.8 Eastern Plaguelands]. Accept followup [QA6163 Ramstein]
 
 
 Go to Western Plaguelands and pickup [QA5461 The Human, Ras Frostwhisper][G70.4,74 Western Plaguelands] This quest requires part of a long chain that starts and ends in Scholomance. Prereq and last part is in Scholomance guide.
