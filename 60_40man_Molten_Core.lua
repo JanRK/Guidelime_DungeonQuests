@@ -1,7 +1,7 @@
 Guidelime.registerGuide([[
 [D Quests for Molten Core\\ https://github.com/JanRK/Guidelime_DungeonQuests]
 [GA Horde]
-[N 60 Molten Core]
+[N 60 40man Molten Core]
 
 To get attuned to MC, go to the bottom of Blackrock Mountain and accept [QA7848 Attunement to the Core]
 

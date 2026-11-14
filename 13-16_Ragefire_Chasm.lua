@@ -1,8 +1,8 @@
 Guidelime.registerGuide([[
-[D Quests for Ragefile Chasm \\ https://github.com/JanRK/Guidelime_DungeonQuests]
+[D Quests for Ragefire Chasm \\ https://github.com/JanRK/Guidelime_DungeonQuests]
 [GA Horde]
-[N 13-18 Ragefile Chasm]
-[NX 17-24 Wailing Caverns]
+[N 13-16 Ragefire Chasm]
+[NX 19-22 Wailing Caverns]
 
 
 Go to Undercity and accept [QA5725 The Power to Destroy...] [G56.2,92.6 Undercity]

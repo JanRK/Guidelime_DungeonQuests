@@ -1,8 +1,8 @@
 Guidelime.registerGuide([[
 [D Quests for Zul Farrak \\ https://github.com/JanRK/Guidelime_DungeonQuests]
 [GA Horde]
-[N 42-51 Zul Farrak]
-[NX 46-55 Maraudon]
+[N 45-48 Zul Farrak]
+[NX 48-51 Maraudon]
 
 
 

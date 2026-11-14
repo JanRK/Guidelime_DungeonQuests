@@ -1,35 +1,54 @@
 ## Title: Guidelime_DungeonQuests
 ## Author: JanRK
-## Version: 0.14.3
-## Interface: 11302
+## Version: 0.14.4
+## Interface: 16001
 ## Dependencies: Guidelime
 ## Notes: All relevant quests for dungeon rewards/xp/keys.
 
-13-18_Ragefile_Chasm.lua
-17-24_Wailing_Caverns.lua
-17-26_Deadmines.lua
-22-30_Shadowfang_Keep.lua
-24-32_Blackfathom_Deeps.lua
-24-32_The_Stockade.lua
-26-36_Scarlet_Monastery_Graveyard.lua
-29-38_Gnomeregan.lua
-29-38_Razorfen_Kraul.lua
-29-39_Scarlet_Monastery_Library.lua
-32-42_Scarlet_Monastery_Armory.lua
-35-45_Scarlet_Monastery_Cathedral.lua
-37-46_Razorfen_Downs.lua
-41-51_Uldaman.lua
-42-46_Zul_Farrak.lua
-46-55_Maraudon.lua
-50-56_The_Temple_of_Atal_Hakkar.lua
-52-60_Blackrock_Depths.lua
+13-15_The_Hall_of_Thanes.lua
+13-16_Ragefire_Chasm.lua
+18_Library_Books_Alliance_Tier_10.lua
+18_Library_Books_Horde_Tier_10.lua
+38_Library_Books_Horde_Tier_20.lua
+39_Library_Books_Alliance_Tier_20.lua
+44_Library_Books_Horde_Tier_25.lua
+47_Library_Books_Alliance_Tier_25.lua
+20_Cozy_Sleeping_Bag.lua
+20_Library_Books_Alliance_Tier_10_Cozy_Sleeping_Bag.lua
+20_Library_Books_Horde_Tier_10_Cozy_Sleeping_Bag.lua
+15-17_Ruins_of_Lordaeron.lua
+18-21_Deadmines.lua
+19-22_Wailing_Caverns.lua
+23-26_Shadowfang_Keep.lua
+24-29_Excavation_Site_Wetlands.lua
+25-28_Blackfathom_Deeps.lua
+26-29_The_Stockade.lua
+28-32_City_of_Dalaran.lua
+30-33_Razorfen_Kraul.lua
+31-34_Gnomeregan.lua
+31-42_Scarlet_Monastery_Graveyard.lua
+31-42_Scarlet_Monastery_Library.lua
+31-42_Scarlet_Monastery_Armory.lua
+31-42_Scarlet_Monastery_Cathedral.lua
+35-38_The_Drowned_City.lua
+35-41_Razorfen_Downs.lua
+40-52_Krol_dok_Stronghold.lua
+44-47_Uldaman.lua
+45-48_Zul_Farrak.lua
+48-51_Alcaz_Prison.lua
+48-51_Maraudon.lua
+52-55_The_Temple_of_Atal_Hakkar.lua
+52-57_Blackrock_Depths.lua
+55-60_Blackmaw_Hold.lua
 55-60_Dire_Maul_East.lua
 55-60_Dire_Maul_West.lua
 55-60_Dire_Maul_North.lua
-55-60_Lower_Blackrock_Spire.lua
-55-60_Upper_Blackrock_Spire.lua
+57-60_Lower_Blackrock_Spire.lua
+58-60_Upper_Blackrock_Spire.lua
 58-60_Scholomance.lua
-58-60_Stratholme_Undead.lua
+58-60_The_Shapers_Terrace.lua
+59-60_Stratholme_Living.lua
+59-60_Stratholme_Undead.lua
 60_20man_Zul_Gurub.lua
 60_20man_Ruins_of_Ahn_Qiraj.lua
 60_40man_Onyxia.lua

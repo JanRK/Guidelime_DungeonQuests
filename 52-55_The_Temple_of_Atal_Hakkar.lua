@@ -1,8 +1,8 @@
 Guidelime.registerGuide([[
 [D Quests for Sunken Temple / The Temple of Atal Hakkar\\ https://github.com/JanRK/Guidelime_DungeonQuests]
 [GA Horde]
-[N 50-56 The Temple of Atal Hakkar]
-[NX 52-60 Blackrock Depths]
+[N 52-55 The Temple of Atal Hakkar]
+[NX 52-57 Blackrock Depths]
 
 
 

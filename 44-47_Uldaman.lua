@@ -1,8 +1,8 @@
 Guidelime.registerGuide([[
 [D Quests for Uldaman \\ https://github.com/JanRK/Guidelime_DungeonQuests]
 [GA Horde]
-[N 41-51 Uldaman]
-[NX 42-51 Zul Farrak]
+[N 44-47 Uldaman]
+[NX 45-48 Zul Farrak]
 
 
 Long neutral Questline, that lets to hand in Indurium Ore (quest items) for 6s for each delivery of 4 ores. *MINERS only* \\ If you have not done any of these quests already, it is worth it to skip entire chain until after Indurium Ore quest... \\ Get Quests [QA1104 Salt Flat Venom] and [QA1105 Hardened Shells] in Thousand Needles [G78,77 Thousand Needles]
@@ -12,7 +12,7 @@ Pickup [QA1106 Martek the Exiled] [G78,77 Thousand Needles]
 Go to Badlands and turn in Quest [QT1106] [G42.4,52.8 Badlands]
 Pickup [QA1108 Indurium] [G42.4,52.8 Badlands]
 Do Quest [QC1108 Indurium]
-Turn in Quest [QT1106 Indurium] [G42.4,52.8 Badlands]
+Turn in Quest [QT1108 Indurium] [G42.4,52.8 Badlands]
 Pickup [QA1137 News for Fizzle] [G42.4,52.8 Badlands]
 Go back to Thousand Needles and turn in Quest [QT1137 News for Fizzle]  [G78,77 Thousand Needles]
 Pickup [QA1190 Keeping the Pace] [G80,75.8 Thousand Needles]

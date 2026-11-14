@@ -1,8 +1,8 @@
 Guidelime.registerGuide([[
 [D Quests for Maraudon \\ https://github.com/JanRK/Guidelime_DungeonQuests]
 [GA Horde]
-[N 46-55 Maraudon]
-[NX 50-56 The Temple of Atal Hakkar]
+[N 48-51 Maraudon]
+[NX 52-55 The Temple of Atal Hakkar]
 
 
 

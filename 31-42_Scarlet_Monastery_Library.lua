@@ -1,8 +1,8 @@
 Guidelime.registerGuide([[
 [D Quests for Scarlet Monastery - Library \\ https://github.com/JanRK/Guidelime_DungeonQuests]
 [GA Horde]
-[N 29-39 Scarlet Monastery Library]
-[NX 32-42 Scarlet Monastery Armory]
+[N 31-42 Scarlet Monastery Library]
+[NX 31-42 Scarlet Monastery Armory]
 
 
 There is a long quest chain *Test of Faith* that is not included, Step 8 in that chain is a quest to loot a book from Library [QA1160][O]

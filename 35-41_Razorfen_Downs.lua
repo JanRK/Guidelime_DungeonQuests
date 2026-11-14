@@ -1,8 +1,8 @@
 Guidelime.registerGuide([[
 [D Quests for Razorfen Downs \\ https://github.com/JanRK/Guidelime_DungeonQuests]
 [GA Horde]
-[N 37-46 Razorfen Downs]
-[NX 41-51 Uldaman]
+[N 35-41 Razorfen Downs]
+[NX 44-47 Uldaman]
 
 
 Go to Undercity and accept [QA3341 Bring the End] [G74,32.8 Undercity]

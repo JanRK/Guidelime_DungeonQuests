@@ -1,8 +1,8 @@
 Guidelime.registerGuide([[
 [D Quests for Blackrock Depths\\ https://github.com/JanRK/Guidelime_DungeonQuests]
 [GA Horde]
-[N 52-60 Blackrock Depths]
-[NX 55-60 Lower Blackrock Spire.lua]
+[N 52-57 Blackrock Depths]
+[NX 57-60 Lower Blackrock Spire]
 
 
 
@@ -56,6 +56,7 @@ Turn in [QT3906 Disharmony of Flame] [G3.4,48.2 Badlands] and accept followup [Q
 Accept [QA7201 The Last Element] [G3,47.6 Badlands]
 Accept [QA4082 KILL ON SIGHT: High Ranking Dark Iron Officials] from the wanted poster[G4,46.8 Badlands] 
 Go to Burning Steppes and turn in [QT4024 A Taste of Flame][G94.8,31.6 Burning Steppes]
+Turn in [QT4123 The Heart of the Mountain][G65.2,23.8 Burning Steppes]
 
 
 Go to BRD and complete:\\

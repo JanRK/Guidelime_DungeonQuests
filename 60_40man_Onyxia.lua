@@ -1,7 +1,7 @@
 Guidelime.registerGuide([[
 [D Quests for Onyxia\\ https://github.com/JanRK/Guidelime_DungeonQuests]
 [GA Horde]
-[N 60 Onyxia]
+[N 60 40man Onyxia]
 
 
 Turn in [QT3907 Disharmony of Fire] [G3.4,48.2 Badlands]
