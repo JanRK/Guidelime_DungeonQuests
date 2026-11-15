@@ -1,14 +1,53 @@
 Guidelime.registerGuide([[
 [D Quests for Scarlet Monastery - Graveyard \\ https://github.com/JanRK/Guidelime_DungeonQuests]
-[GA Horde]
 [N 31-42 Scarlet Monastery Graveyard]
-[NX 31-34 Gnomeregan]
+[NX 31-42 Scarlet Monastery Library]
 
+-- Left out: 1113 Hearts of Zeal (drops in every wing; it is in the Library guide); 78699 The Eye of Bhossca (Rogue solo job, needs the Shadowfang Keep Horn of Xelthos jobs first).
+[A Alliance] The Graveyard has no Alliance quests on Forever. Skip to the next guide.
 
-There is only a single quest in SM:GY, that starts from inside the instance. \\ Go into the graveyard instance in Scarlet Monestary[G85.3,32.2 Tirisfal Glades], it's the one on the far left without a door. \\ Start clearing until you can talk to Vorguz who will give you this quest [QA1051 Vorrels Revenge].  He's being totured on one of the tables.
+[A Horde] Leave Undercity by the main gate [G61.8,65.0 Tirisfal Glades]
+[A Horde] Go north to the road [G64.3,59.6 Tirisfal Glades] [OC]
+[A Horde] Follow the road north-east [G68.0,57.5 Tirisfal Glades] [OC]
+[A Horde] Keep on the road over the bridge east of the lake [G73.1,50.8 Tirisfal Glades] [OC]
+[A Horde] Keep east on the road *(Riptear, elite, level 13, may roam here)* [G76.7,49.5 Tirisfal Glades] [OC]
+[A Horde] Turn north on the road to the monastery [G81.6,39.6 Tirisfal Glades] [OC]
+[A Horde] Go into the monastery courtyard; the Graveyard is the doorway on the right *(Scarlet elites, level 29-31, guard the courtyard)* [G82.6,33.8 Tirisfal Glades]
 
-Go to Alterac Mountains and kill *Nancy Vishas*, she is a level 33 elite[G56.2,92.6 Alterac Mountains]. Loot *Vorrel's Wedding Ring* from her to complete [QC1051 Vorrels Revenge].
+Inside the Graveyard:
+[A Horde] Find Vorrel Sengutz, a captive in the Graveyard, and take [QA1051 Vorrel's Revenge]
 
-Go to Tarren Mill in Hillsbrad Foothills and turn in [QT1051 Vorrels Revenge] [G62.6,19 Hillsbrad Foothills]
-
+[A Horde] Leave the monastery by the road south [G81.6,39.6 Tirisfal Glades] [OC]
+[A Horde] Go south-west on the road [G76.7,49.5 Tirisfal Glades] [OC]
+[A Horde] Cross the bridge [G73.1,50.8 Tirisfal Glades] [OC]
+[A Horde] Keep south-west on the road [G68.0,57.5 Tirisfal Glades] [OC]
+[A Horde] Keep on the road [G64.3,59.6 Tirisfal Glades] [OC]
+[A Horde] Back to the Undercity gate [G61.8,65.0 Tirisfal Glades]
+[A Horde] Optional: if you lack the Undercity flight point, get it from Michael Garrett at the top of the lift [P Undercity] [G63.3,48.6 Undercity]
+[A Horde] Walk to Tarren Mill through Silverpine Forest. West from the gate to the road [G56.0,66.0 Tirisfal Glades] [OC]
+[A Horde] South on the road [G54.8,73.0 Tirisfal Glades] [OC]
+[A Horde] Keep south on the road [G52.6,77.7 Tirisfal Glades] [OC]
+[A Horde] Into Silverpine Forest on the road [G61.2,11.0 Silverpine Forest] [OC]
+[A Horde] South-west on the road along the lake [G56.2,13.3 Silverpine Forest] [OC]
+[A Horde] Keep south on the road [G52.9,19.0 Silverpine Forest] [OC]
+[A Horde] Keep south *(Sons of Arugal, elite, level 24-25, may roam here)* [G51.0,24.7 Silverpine Forest] [OC]
+[A Horde] Keep south [G49.8,29.0 Silverpine Forest] [OC]
+[A Horde] Over the stream on the road [G48.6,34.0 Silverpine Forest] [OC]
+[A Horde] Past the Sepulcher turn-off [G50.0,40.0 Silverpine Forest] [OC]
+[A Horde] South on the road [G56.0,62.0 Silverpine Forest] [OC]
+[A Horde] To the road south of Ambermill [G60.0,68.0 Silverpine Forest] [OC]
+[A Horde] North-east past Ambermill [G63.5,63.2 Silverpine Forest] [OC]
+[A Horde] To the west side of Dalaran *(Kirin Tor guards, level 55, may be near)* [G68.4,52.9 Silverpine Forest] [OC]
+[A Horde] South-east round the wall to the camp house *(camp guards and casters, level 31-36, around it)* [G16.3,89.3 Alterac Mountains] [OC]
+[A Horde] East to the road below Dalaran *(an elite Arcane Sentry, level 55, may stand by it)* [G22.5,82 Alterac Mountains] [OC]
+[A Horde] North past the east side of Dalaran, outside the walls [G26.2,67.4 Alterac Mountains] [OC]
+[A Horde] Keep north along the lake shore [G24.0,52.0 Alterac Mountains] [OC]
+[A Horde] North-east along the shore to the house by the jetty. Nancy Vishas (elite, level 33) and Grandpa Vishas (elite, level 34) are inside; bring a group. Kill Nancy and loot her ring [QC1051 Vorrel's Revenge] [G32.3,32.8 Alterac Mountains]
+[A Horde] Back south-west along the shore [G24.0,52.0 Alterac Mountains] [OC]
+[A Horde] South past Dalaran [G26.2,67.4 Alterac Mountains] [OC]
+[A Horde] To the road below Dalaran *(Arcane Sentry nearby)* [G22.5,82 Alterac Mountains] [OC]
+[A Horde] Down into Hillsbrad [G32.9,15.0 Hillsbrad Foothills] [OC]
+[A Horde] East towards Tarren Mill [G45,22 Hillsbrad Foothills] [OC]
+[A Horde] Take care: Southshore Defenders (level 55) may be near Tarren Mill. Get the flight point from Zarise [P Tarren Mill] [G60.1,18.6 Hillsbrad Foothills]
+[A Horde] Turn in [QT1051 Vorrel's Revenge] to Monika Sengutz [G62.7,18.9 Hillsbrad Foothills]
 ]], 'DungeonQuests - JanRK')

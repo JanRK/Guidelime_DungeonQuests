@@ -1,0 +1,50 @@
+# Runs on the GitHub publish repo, whose tree is the work repo's addon/ folder.
+# Turns each vX.Y.Z tag into a GitHub Release with the zip WowUp-CF installs for WoW Forever.
+name: release
+
+on:
+  push:
+    tags: ['v[0-9]+.[0-9]+.[0-9]+']
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Tag to (re)release, e.g. v0.14.5
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      TAG: ${{ inputs.tag || github.ref_name }}
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - name: Build zip and release
+        run: |
+          set -euo pipefail
+          [[ "$TAG" =~ ^v[0-9]+\.[0-9]+\.[0-9]+$ ]] || { echo "Tag '$TAG' is not vX.Y.Z" >&2; exit 1; }
+          # Plain git, not actions/checkout, so the annotated tag object (and its message) survives.
+          # Anonymous fetch: works while the publish repo is public.
+          git init --quiet .
+          git fetch --quiet --depth=1 "https://github.com/${GH_REPO}.git" "refs/tags/${TAG}:refs/tags/${TAG}"
+          zip="Guidelime_DungeonQuests-${TAG#v}-forever.zip"
+          git archive --format=zip --prefix=Guidelime_DungeonQuests/ -o "$zip" "$TAG"
+          unzip -Z1 "$zip" > list.txt
+          grep -qx 'Guidelime_DungeonQuests/Guidelime_DungeonQuests.toc' list.txt || { echo "$zip has no .toc" >&2; exit 1; }
+          git tag -l --format='%(contents:body)' "$TAG" > notes.md
+          # A repair run of an older tag must not take "latest" from a newer release.
+          newest=$(git ls-remote --tags --refs "https://github.com/${GH_REPO}.git" 'v*' | sed 's|.*refs/tags/||' | grep -E '^v[0-9]+\.[0-9]+\.[0-9]+$' | sort -V | tail -n 1)
+          latest=$([[ "$TAG" == "$newest" ]] && echo true || echo false)
+          # Re-runs only replace the zip (deterministic from the tag); title and notes stay as created.
+          if gh release view "$TAG" > /dev/null 2>&1; then
+            gh release upload "$TAG" "$zip" --clobber
+          else
+            gh release create "$TAG" "$zip" --verify-tag --title "$TAG" --notes-file notes.md --latest="$latest"
+          fi

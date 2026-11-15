@@ -1,55 +1,241 @@
 Guidelime.registerGuide([[
 [D Quests for Uldaman \\ https://github.com/JanRK/Guidelime_DungeonQuests]
-[GA Horde]
 [N 44-47 Uldaman]
 [NX 45-48 Zul Farrak]
 
+Uldaman lies under the northern Badlands. Past Angor Fortress, a dig site cave leads into the hillside, and the dungeon portal waits behind the big carved door deep inside. Shadowforge dwarves and Stonevault troggs (elite, level 35-37) fill the outer cave. Both factions need two runs: some chains can only go on after a hand-in outside.
 
-Long neutral Questline, that lets to hand in Indurium Ore (quest items) for 6s for each delivery of 4 ores. *MINERS only* \\ If you have not done any of these quests already, it is worth it to skip entire chain until after Indurium Ore quest... \\ Get Quests [QA1104 Salt Flat Venom] and [QA1105 Hardened Shells] in Thousand Needles [G78,77 Thousand Needles]
-Do Quest [QC1104] and [QC1105] 
-Turn in Quest [QT1104] and [QT1105] [G78,77 Thousand Needles]
-Pickup [QA1106 Martek the Exiled] [G78,77 Thousand Needles]
-Go to Badlands and turn in Quest [QT1106] [G42.4,52.8 Badlands]
-Pickup [QA1108 Indurium] [G42.4,52.8 Badlands]
-Do Quest [QC1108 Indurium]
-Turn in Quest [QT1108 Indurium] [G42.4,52.8 Badlands]
-Pickup [QA1137 News for Fizzle] [G42.4,52.8 Badlands]
-Go back to Thousand Needles and turn in Quest [QT1137 News for Fizzle]  [G78,77 Thousand Needles]
-Pickup [QA1190 Keeping the Pace] [G80,75.8 Thousand Needles]
-Turn in Quest [QT1190 Keeping the Pace] [G77.3,77.4 Thousand Needles]
-Pickup [QA1194 Rizzles Schematics] [G77.3,77.4 Thousand Needles]
-Last step in the long chain - Turn in Quest [QT1194 Rizzles Schematics] [G80,75.8 Thousand Needles] \\ You can now hand in "Indurium Ore" Repeatable quest
+-- Left out: 1104 Salt Flat Venom, 1105 Hardened Shells, 1106 Martek the Exiled, 1108 Indurium, 1137 News for Fizzle, 1190 Keeping the Pace, 1192 Indurium Ore and 1194 Rizzle's Schematics: a Thousand Needles chain that only passes through the Badlands, not an Uldaman quest. 2203 and 2501 Badlands Reagent Run II: follow-ups after the dungeon that never go inside. 727 and 728 Yagyin's Digest: follow-ups of Solution to Doom outside the dungeon. 2440, 2963 and 2965 onward: the Platinum Discs follow-ups toward Tanaris. 3375 Replacement Phial: only if you lose the phial from Find the Gems. 707 Ironband Wants You!: an optional lead-in to Find Agmond. 1956 Power in Uldaman: a Mage class chain from Dustwallow Marsh.
 
-Go to Orgrimmar and accept [QA2283 Necklace Recovery] [G59.4,36.8 Orgrimmar]
-Take Zeppelin to Undercity and accept [QA2342 Reclaimed Treasures][G62.6,48.4 Undercity] near the Bat Handler
+-- Horde: Orgrimmar, Undercity, then Kargath.
+[A Horde] Start in Orgrimmar. At Doras, get the Orgrimmar flight path [P Orgrimmar] [G45.3,63.7 Orgrimmar]
+[A Horde] Dran Droffers in the Drag gives [QA2283 Necklace Recovery] [G59.5,36.6 Orgrimmar] \\ Needs level 37.
+[A Horde] Back to the flight master [G45.3,63.7 Orgrimmar] [OC]
+[A Horde] Leave Orgrimmar by the main gate and take the zeppelin to Tirisfal Glades *(an elite Infernal, level 30, may be near the tower)* [G45.5,12.0 Durotar][G51.0,13.9 Durotar]
+[A Horde] Walk south into Undercity [G61.8,65.0 Tirisfal Glades][G56.8,17.2 Undercity] [OC]
+[A Horde] At Michael Garrett, get the Undercity flight path [P Undercity] [G63.1,48.3 Undercity]
+[A Horde] Patrick Garrett next to the bat handler gives [QA2342 Reclaimed Treasures] [G62.3,48.6 Undercity] \\ Needs level 33.
+[A Horde] Fly to Kargath from Michael Garrett [G63.1,48.3 Undercity] \\ Uses the optional Kargath flight path from the Library book guides. Without it, skip this step and walk the steps below.
+[A Horde][OC]No Kargath flight path: leave Undercity and take the road west into Silverpine Forest, then south along it *(the Son of Arugal, level 24-25, and Old Fire-Eye, level 25, roam near the Sepulcher road)* [G56.8,17.2 Undercity][G61.8,65.0 Tirisfal Glades][G49.0,70.0 Tirisfal Glades][G53.0,19.0 Silverpine Forest][G50.5,30.0 Silverpine Forest][G50.0,40.0 Silverpine Forest][G56.0,62.0 Silverpine Forest]
+[A Horde][OC]No Kargath flight path: east into Hillsbrad and north-east to Tarren Mill. Kirin Tor Guards (level 55) stand by the road south of Tarren Mill and Southshore Defenders (level 55) may patrol near the flight point, so keep away from them [G15.0,45.0 Hillsbrad Foothills][G35.0,48.0 Hillsbrad Foothills][G55.0,36.0 Hillsbrad Foothills][G60.1,18.6 Hillsbrad Foothills]
+[A Horde][OC]No Kargath flight path: follow the road south-east past Durnholde Keep to the gate in Thoradin's Wall [G58.5,34.0 Hillsbrad Foothills][G62.0,41.0 Hillsbrad Foothills][G83.7,60 Hillsbrad Foothills]
+[A Horde][OC]No Kargath flight path: through the gate and east on the road to the crossing south of Refuge Pointe *(Stromgarde Cavalrymen, level 36-38, ride near 33,52)* [G26.3,50.1 Arathi Highlands][G45.2,58.4 Arathi Highlands]
+[A Horde][OC]No Kargath flight path: south down the road to Thandol Span *(the elite Modr, level 32, may be near the bridge)* [G43.6,73.3 Arathi Highlands][G43.9,83.6 Arathi Highlands][G45.7,98.9 Arathi Highlands]
+[A Horde][OC]No Kargath flight path: cross Thandol Span and follow the road south to Dun Modr. The level 32 elites Modr and Neru stand at the gate, and raptors and rotclaws (level 23-26) roam the pass, so stay on the road [G49.7,26 Wetlands]
+[A Horde][OC]No Kargath flight path: south along the river road to Dun Algaz. Dragonmaw and Nightveiled elites (level 28-32), the elite Golm and Mosshide gnolls are by this road, so keep moving [G57,49.5 Wetlands][G55.1,73.7 Wetlands]
+[A Horde][OC]No Kargath flight path: through the Dun Algaz tunnel into Loch Modan and south on the east road, keeping clear of Thelsamar [G26.3,22.5 Loch Modan][G39.7,43.7 Loch Modan][G43.2,67.8 Loch Modan]
+[A Horde][OC]No Kargath flight path: south into the Badlands, then west across the plain to Kargath [G53.5,13.8 Badlands][G50.0,28.5 Badlands][G42,41 Badlands][G18,42 Badlands][G4.0,44.9 Badlands]
+[A Horde] At Gorrik, get the Kargath flight path [P Kargath] [G4.0,44.9 Badlands] \\ QuestieDB lists a hostile elite Malevolent Mirage (level 42) at the edge of Kargath.
+[A Horde] Jarkal Mossmeld gives [QA2258 Badlands Reagent Run] [G2.4,46.1 Badlands]
+[A Horde] East out of Kargath *(Lesser Rock Elementals, level 37-39, stand around here)* [G18,42 Badlands] [OC]
+[A Horde] Kill Lesser Rock Elementals for Rock Elemental Shards [QC2258,3 Badlands Reagent Run] [G18,42 Badlands]
+[A Horde] East across the plain *(Fam'retor Guardian, level 45, walks near 26,46)* [G42,41 Badlands][G48.5,44 Badlands] [OC]
+[A Horde] Kill Crag Coyotes for Crag Coyote Fangs [QC2258,2 Badlands Reagent Run] [G48.5,44 Badlands]
+[A Horde] South-west to Rigglefuzz [G42.4,52.9 Badlands] [OC]
+[A Horde] Rigglefuzz gives [QA2418 Power Stones] [G42.4,52.9 Badlands]
+[A Horde] South to the road [G41.5,60.3 Badlands] [OC]
+[A Horde] Keep south *(Rock Elementals, level 39-40, stand here)* [G44.4,82 Badlands] [OC]
+[A Horde] Theldurin the Lost gives [QA709 Solution to Doom] [G51.4,76.9 Badlands]
+[A Horde] Kill Buzzards on the way back north for Buzzard Gizzards [QC2258,1 Badlands Reagent Run] [G50.1,60 Badlands]
+[A Horde] North to Rigglefuzz [G42.4,52.9 Badlands] [OC]
+[A Horde] West across the plain *(Fam'retor Guardian, level 45, walks near 26,46)* [G18,42 Badlands] [OC]
+[A Horde] Jarkal Mossmeld takes [QT2258 Badlands Reagent Run] and gives [QA2202 Uldaman Reagent Run] [G2.4,46.1 Badlands]
+[A Horde] East out of Kargath [G18,42 Badlands] [OC]
+[A Horde] East across the plain [G42,41 Badlands][G48.5,44 Badlands] [OC]
+[A Horde] North past Angor Fortress [G55,25 Badlands] [OC]
+[A Horde] North to the Badlands north road *(Broken Tooth, a rare elite 37, roams here)* [G53.5,13.8 Badlands] [OC]
+[A Horde] West into the excavation *(the elite War Golem, level 36, walks the dig)* [G44.6,12.1 Badlands] [OC]
+[A Horde] [O] Kill Shadowforge dwarves for Dentrium and An'Alleum Power Stones [QC2418,1 Power Stones][QC2418,2 Power Stones] [G44.6,12.1 Badlands] \\ The dwarves are elite (level 35-37).
+[A Horde] [O] Kill troggs and Shadowforge dwarves until the Shattered Necklace drops [QC2283 Necklace Recovery] [G44.6,12.1 Badlands] \\ The drop chance is low.
+[A Horde] [O] Pick Magenta Cap Clusters in the outer cave [QC2202 Uldaman Reagent Run] [G38.2,17.0 Badlands] \\ More grow inside the dungeon.
+[A Horde] Open the Ancient Chest in the outer cave for the Tablet of Ryun'eh [QC709 Solution to Doom] [G39.3,18.8 Badlands]
+[A Horde] Out of the cave to the north road [G44.6,12.1 Badlands][G53.5,13.8 Badlands] [OC]
+[A Horde] South past Angor Fortress [G55,25 Badlands] [OC]
+[A Horde] South-west to Rigglefuzz [G48.5,44 Badlands][G42.4,52.9 Badlands] [OC]
+[A Horde] Rigglefuzz takes [QT2418 Power Stones] [G42.4,52.9 Badlands]
+[A Horde] South to the road [G41.5,60.3 Badlands] [OC]
+[A Horde] Keep south [G44.4,82 Badlands] [OC]
+[A Horde] Theldurin the Lost takes [QT709 Solution to Doom] [G51.4,76.9 Badlands]
+[A Horde] Back north [G44.4,82 Badlands] [OC]
+[A Horde] North to the road [G41.5,60.3 Badlands] [OC]
+[A Horde] To Rigglefuzz [G42.4,52.9 Badlands] [OC]
+[A Horde] North-east round the rocks, then north-west across the plain [G45.0,47.1 Badlands][G42,41 Badlands] [OC]
+[A Horde] West across the plain [G18,42 Badlands] [OC]
+[A Horde] Into Kargath [G4.0,44.9 Badlands] [OC]
+[A Horde] Fly to Undercity [F Undercity] [G4.0,44.9 Badlands]
+[A Horde] Leave Undercity by the main gate: north through the city, up the lift and out through the ruins [G56.8,73.5 Undercity][G56.8,54.7 Undercity][G56.8,17.2 Undercity][G61.8,65.0 Tirisfal Glades]
+[A Horde] Take the zeppelin to Durotar [G61.2,58.9 Tirisfal Glades]
+[A Horde] Into Orgrimmar by the main gate [G45.5,12.0 Durotar][G45.3,63.7 Orgrimmar] [OC]
+[A Horde] Dran Droffers takes [QT2283 Necklace Recovery] and gives [QA2284 Necklace Recovery, Take 2] [G59.5,36.6 Orgrimmar]
+[A Horde] Back to the flight master [G45.3,63.7 Orgrimmar] [OC]
+[A Horde] Leave Orgrimmar by the main gate and take the zeppelin to Tirisfal Glades [G45.5,12.0 Durotar][G51.0,13.9 Durotar]
+[A Horde] Walk south into Undercity [G61.8,65.0 Tirisfal Glades][G56.8,17.2 Undercity] [OC]
+[A Horde] Fly to Kargath [F Kargath] [G63.1,48.3 Undercity]
+[A Horde] East out of Kargath [G18,42 Badlands] [OC]
+[A Horde] East across the plain [G42,41 Badlands][G48.5,44 Badlands] [OC]
+[A Horde] North past Angor Fortress [G55,25 Badlands] [OC]
+[A Horde] North to the Badlands north road *(Broken Tooth, a rare elite 37, roams here)* [G53.5,13.8 Badlands] [OC]
+[A Horde] West into the excavation and on to the stone door at the back of the cave [G44.6,12.1 Badlands]
 
-Head to Badlands and pickup [QA2258 Badlands Reagent Run] [G2.6,46 Badlands] and complete it \ [QC2258]
-Turn in [QT2258 Badlands Reagent Run] [G2.6,46 Badlands] and pickup [QA2202 Uldaman Reagent Run]
-Pickup [QA709 Solution to Doom][G51.4,76.8 Badlands]
-Pickup [QA2418 Power Stones] [G42.4,52.8 Badlands]
+-- Alliance: Ironforge, Loch Modan, then the Badlands.
+[A Alliance] Start in Ironforge. At Gryth Thurden, get the Ironforge flight path [P Ironforge] [G55.9,47.9 Ironforge]
+[A Alliance] Up to the Hall of Explorers [G77.5,11.8 Ironforge] [OC]
+[A Alliance] Krom Stoutarm gives [QA1360 Reclaimed Treasures] [G74.2,9.4 Ironforge] \\ Needs level 33.
+[A Alliance] Prospector Stormpike gives [QA2398 The Lost Dwarves] [G74.6,11.7 Ironforge] \\ Optional: it leads to Baelog and The Hidden Chamber inside.
+[A Alliance] Out through the Commons and the Gates of Ironforge *(a level 50 Plague Zombie may wander near the gate)* [G62,30 Ironforge][G53.6,33.9 Dun Morogh] [OC]
+[A Alliance] Round the lake on the road [G60.6,47.2 Dun Morogh] [OC]
+[A Alliance] East on the road past Kharanos [G65.5,51.3 Dun Morogh] [OC]
+[A Alliance] Keep east past the North Gate Outpost [G77.2,49.9 Dun Morogh] [OC]
+[A Alliance] North-east to the North Gate Pass [G84.1,33.8 Dun Morogh] [OC]
+[A Alliance] Through the pass into Loch Modan [G20.7,17.5 Loch Modan] [OC]
+[A Alliance] East to the road junction [G26.3,22.5 Loch Modan] [OC]
+[A Alliance] South on the road to Thelsamar [G33.9,50.8 Loch Modan] [OC]
+[A Alliance] At Thorgrum Borrelson, get the Thelsamar flight path [P Thelsamar] [G33.9,50.8 Loch Modan]
+[A Alliance] Ghak Healtouch gives [QA2500 Badlands Reagent Run] [G37.1,49.4 Loch Modan] \\ Needs level 36.
+[A Alliance] South-east round the lake to the excavation site [G43.2,67.8 Loch Modan][G52,70 Loch Modan] [OC]
+[A Alliance] Prospector Ironband gives [QA738 Find Agmond] [G65.9,65.6 Loch Modan]
+[A Alliance] West to the road south [G52,70 Loch Modan][G43.2,67.8 Loch Modan] [OC]
+[A Alliance] South through the pass into the Badlands [G53.5,13.8 Badlands] [OC]
+[A Alliance] South past Angor Fortress [G55,25 Badlands] [OC]
+[A Alliance] Click the Crumpled Map *(Shadowforge Tunnelers and Darkweavers, level 35-37, camp here)* on the ground to start [QA720 A Sign of Hope] [G53.0,33.9 Badlands] \\ Needs level 35.
+[A Alliance] Prospector Ryedol takes [QT720 A Sign of Hope] and gives [QA721 A Sign of Hope] [G53.4,43.4 Badlands]
+[A Alliance] [O] Kill Crag Coyotes for Crag Coyote Fangs [QC2500,2 Badlands Reagent Run] [G48.5,44 Badlands]
+[A Alliance] South-west to Rigglefuzz [G42.4,52.9 Badlands] [OC]
+[A Alliance] Rigglefuzz gives [QA2418 Power Stones] [G42.4,52.9 Badlands]
+[A Alliance] South-east to the Battered Dwarven Skeleton *(Stonevault Bonesnappers, level 39-40, camp here)* [G50.1,60 Badlands][G50.9,62.4 Badlands] [OC]
+[A Alliance] Click the Battered Dwarven Skeleton: [QT738 Find Agmond] and [QA739 Murdaloc] [G50.9,62.4 Badlands]
+[A Alliance] Kill Murdaloc [QC739,1 Murdaloc] and 12 Stonevault Bonesnappers [QC739,2 Murdaloc] [G49.6,66.3 Badlands] \\ Murdaloc is level 42.
+[A Alliance] Kill Buzzards around the camp for Buzzard Gizzards [QC2500,1 Badlands Reagent Run] [G50.1,60 Badlands]
+[A Alliance] South-west to the road [G41.5,60.3 Badlands] [OC]
+[A Alliance] Keep south *(Rock Elementals, level 39-40, stand here)* [G44.4,82 Badlands] [OC]
+[A Alliance] Kill Rock Elementals for Rock Elemental Shards [QC2500,3 Badlands Reagent Run] [G44.4,82 Badlands]
+[A Alliance] Theldurin the Lost gives [QA709 Solution to Doom] [G51.4,76.9 Badlands]
+[A Alliance] Back west [G44.4,82 Badlands] [OC]
+[A Alliance] North to the road [G41.5,60.3 Badlands] [OC]
+[A Alliance] North past Rigglefuzz [G42.4,52.9 Badlands] [OC]
+[A Alliance] North to the excavation [G44.6,12.1 Badlands] [OC]
+[A Alliance] Hammertoe Grez in the outer cave takes [QT721 A Sign of Hope] and gives [QA722 Amulet of Secrets] [G37.9,10.6 Badlands]
+[A Alliance] Kill Magregan Deepshadow *(elite, level 38)* for Hammertoe's Amulet [QC722 Amulet of Secrets] [G39.0,19.7 Badlands]
+[A Alliance] Hammertoe Grez takes [QT722 Amulet of Secrets] and gives [QA723 Prospect of Faith] [G37.9,10.6 Badlands]
+[A Alliance] [O] Kill Shadowforge dwarves for Dentrium and An'Alleum Power Stones [QC2418,1 Power Stones][QC2418,2 Power Stones] [G44.6,12.1 Badlands] \\ The dwarves are elite (level 35-37).
+[A Alliance] [O] Kill troggs and Shadowforge dwarves until the Shattered Necklace drops; use it to start [QA2198 The Shattered Necklace] [G44.6,12.1 Badlands] \\ Needs level 37. The drop chance is low.
+[A Alliance] Open the Ancient Chest in the outer cave for the Tablet of Ryun'eh [QC709 Solution to Doom] [G39.3,18.8 Badlands]
+[A Alliance] Out of the cave and south [G44.6,12.1 Badlands] [OC]
+[A Alliance] South to Rigglefuzz [G42.4,52.9 Badlands] [OC]
+[A Alliance] Rigglefuzz takes [QT2418 Power Stones] [G42.4,52.9 Badlands]
+[A Alliance] South to the road [G41.5,60.3 Badlands] [OC]
+[A Alliance] Keep south [G44.4,82 Badlands] [OC]
+[A Alliance] Theldurin the Lost takes [QT709 Solution to Doom] [G51.4,76.9 Badlands]
+[A Alliance] Back west [G44.4,82 Badlands] [OC]
+[A Alliance] North to the road [G41.5,60.3 Badlands] [OC]
+[A Alliance] North-east across the plain [G42.4,52.9 Badlands][G45.0,47.1 Badlands][G42,41 Badlands][G48.5,44 Badlands] [OC]
+[A Alliance] Prospector Ryedol takes [QT723 Prospect of Faith] and gives [QA724 Prospect of Faith] [G53.4,43.4 Badlands]
+[A Alliance] North past Angor Fortress [G55,25 Badlands] [OC]
+[A Alliance] North to the pass [G53.5,13.8 Badlands] [OC]
+[A Alliance] Into Loch Modan [G43.2,67.8 Loch Modan] [OC]
+[A Alliance] East along the south shore to the excavation site [G52,70 Loch Modan][G65.9,65.6 Loch Modan] [OC]
+[A Alliance] Prospector Ironband takes [QT739 Murdaloc] and gives [QA704 Agmond's Fate] [G65.9,65.6 Loch Modan]
+[A Alliance] West round the lake [G52,70 Loch Modan][G43.2,67.8 Loch Modan] [OC]
+[A Alliance] Ghak Healtouch takes [QT2500 Badlands Reagent Run] and gives [QA17 Uldaman Reagent Run] [G37.1,49.4 Loch Modan] \\ Needs level 38.
+[A Alliance] Fly to Ironforge [F Ironforge] [G33.9,50.8 Loch Modan]
+[A Alliance] Up to the Hall of Explorers [G77.5,11.8 Ironforge] [OC]
+[A Alliance] Historian Karnik takes [QT724 Prospect of Faith] and gives [QA725 Passing Word of a Threat] [G77.5,11.8 Ironforge]
+[A Alliance] Advisor Belgrum takes [QT725 Passing Word of a Threat] and gives [QA726 Passing Word of a Threat] [G77.3,9.7 Ironforge]
+[A Alliance] Historian Karnik takes [QT726 Passing Word of a Threat] and gives [QA762 An Ambassador of Evil] [G77.5,11.8 Ironforge]
+[A Alliance] Across the city to the Mystic Ward [G36.4,3.6 Ironforge] [OC]
+[A Alliance] Talvash del Kissel takes [QT2198 The Shattered Necklace] and gives [QA2199 Lore for a Price] [G36.4,3.6 Ironforge]
+[A Alliance] Give Talvash 5 Silver Bars [QC2199 Lore for a Price] [G36.4,3.6 Ironforge] \\ Buy them at the auction house or smelt silver ore.
+[A Alliance] Talvash del Kissel takes [QT2199 Lore for a Price] and gives [QA2200 Back to Uldaman] [G36.4,3.6 Ironforge]
+[A Alliance] Back to the flight master [G55.9,47.9 Ironforge] [OC]
+[A Alliance] Fly to Thelsamar [F Thelsamar] [G55.9,47.9 Ironforge]
+[A Alliance] South-east out of Thelsamar [G37.1,49.4 Loch Modan] [OC]
+[A Alliance] To the road south [G43.2,67.8 Loch Modan] [OC]
+[A Alliance] South through the pass into the Badlands [G53.5,13.8 Badlands] [OC]
+[A Alliance] South to the valley east of Angor Fortress [G55,25 Badlands] [OC]
+[A Alliance] West up the valley to Angor Fortress *(Stone Golems and Shadowforge dwarves, level 38-40, and the elite Shadowforge Commander guard it)* [G42.1,28.9 Badlands] [OC]
+[A Alliance] Kill Ambassador Infernus *(elite, level 42; bring a group)* at Angor Fortress for his bracer [QC762 An Ambassador of Evil] [G42.1,28.9 Badlands]
+[A Alliance] Back east down the valley [G55,25 Badlands] [OC]
+[A Alliance] North to the north road [G53.5,13.8 Badlands] [OC]
+[A Alliance] West into the excavation *(the elite War Golem, level 36, walks the dig)* [G44.6,12.1 Badlands] [OC]
+[A Alliance] [O] Collect 4 Carved Stone Urns in the outer cave [QC704 Agmond's Fate] [G38.2,17.0 Badlands]
+[A Alliance] [O] Pick Magenta Cap Clusters in the outer cave [QC17 Uldaman Reagent Run] [G38.2,17.0 Badlands] \\ More grow inside the dungeon.
+[A Alliance] On to the stone door at the back of the cave [G44.6,12.1 Badlands]
 
-Go to ULDAMAN \\ Before you enter, complete these 2 quests outside the entrace.\\ [QC709 Solution to Doom] \\ [QC2342 Reclaimed Treasures]
+Inside Uldaman:
+[A Horde] [O] Pick Magenta Cap Clusters [QC2202 Uldaman Reagent Run]
+[A Alliance] [O] Pick Magenta Cap Clusters [QC17 Uldaman Reagent Run]
+[A Alliance] Find Baelog [QT2398 The Lost Dwarves] and take [QA2240 The Hidden Chamber] \\ Only with The Lost Dwarves.
+[A Alliance] Read Baelog's Journal and explore the hidden chamber behind him [QC2240 The Hidden Chamber]
+[A Horde] Open the Garrett Family Chest in the South Common Hall [QC2342 Reclaimed Treasures]
+[A Alliance] Open Krom Stoutarm's Chest in the North Common Hall [QC1360 Reclaimed Treasures]
+[A Horde] At the Remains of a Paladin: [QT2284 Necklace Recovery, Take 2] and [QA2318 Translating the Journal]
+[A Alliance] At the Remains of a Paladin: [QT2200 Back to Uldaman] and [QA2201 Find the Gems]
+[A Alliance] The ruby is in a Shadowforge Cache [QC2201,1 Find the Gems], the sapphire drops from Grimlok [QC2201,2 Find the Gems] and the topaz is in a Conspicuous Urn [QC2201,3 Find the Gems]
+[A Alliance] Use the Phial of Scrying to call Talvash's Scrying Bowl: [QT2201 Find the Gems] and [QA2204 Restoring the Necklace]
+[A Alliance] Archaedas drops the power source [QC2204 Restoring the Necklace]
+In the Map Chamber past Archaedas, talk to the Stone Watcher and activate the Discs of Norgannon: [QA2278 The Platinum Discs] [QC2278 The Platinum Discs] [QT2278 The Platinum Discs] \\ Needs level 40.
+[A Horde] Take [QA2280 The Platinum Discs] from the Discs
+[A Alliance] Take [QA2279 The Platinum Discs] from the Discs
 
-Inside, complete the following objectives: \\ [QC2283 Necklace Recovery] - Drops ramdomly from the Troggs \\ [QC2202 Uldaman Reagent Run] - Mushrooms around the instance. They respawn, so can be picked up when running out as well. \\ Pickup [QA2278 The Platinum Discs] - In the room after the last boss, click the dics, talk to the ghost, listen to the ghost.
-When done talking click the dics again to turn in [QT2278 The Platinum Discs] and accept [QA2280 The Platinum Discs].
+-- Horde: after the first run.
+[A Horde] Leave the dungeon and the cave [G44.6,12.1 Badlands][G53.5,13.8 Badlands] [OC]
+[A Horde] South past Angor Fortress [G55,25 Badlands] [OC]
+[A Horde] South-west across the plain [G48.5,44 Badlands][G42,41 Badlands] [OC]
+[A Horde] West across the plain [G18,42 Badlands] [OC]
+[A Horde] Jarkal Mossmeld takes [QT2202 Uldaman Reagent Run] and [QT2318 Translating the Journal] [G2.4,46.1 Badlands]
+[A Horde] Jarkal Mossmeld gives [QA2338 Translating the Journal]; turn it in and take [QA2339 Find the Gems and Power Source] [QT2338 Translating the Journal] [G2.4,46.1 Badlands]
+[A Horde] East out of Kargath [G18,42 Badlands] [OC]
+[A Horde] East across the plain [G42,41 Badlands][G48.5,44 Badlands] [OC]
+[A Horde] North past Angor Fortress [G55,25 Badlands] [OC]
+[A Horde] North to the Badlands north road *(Broken Tooth, a rare elite 37, roams here)* [G53.5,13.8 Badlands] [OC]
+[A Horde] Back into the excavation and Uldaman [G44.6,12.1 Badlands]
 
-In Badlands, turn in [QT709 Solution to Doom] [G51.4,76.8 Badlands]
-Turn in [QT2202 Uldaman Reagent Run] [G2.6,46 Badlands]
-Go to Undercity and turn in [QT2342 Reclaimed Treasures] [G62.6,48.4 Undercity]
-Go to Orgrimmar and turn in [QT2283 Necklace Recovery] [G59.4,36.8 Orgrimmar] and pickup [QA2284 Necklace Recovery take 2]. Completes inside Uldaman at Remains of a Paladin.
-Turn in [QT2280 The Platinum Discs] [G34.6,47.2 Thunder Bluff]
-Optionally turn in [QT1192 Indurium Ore][O] [G80,75.8 Thousand Needles] in Thousand Needles of you have over 4 Indurium Ore or skip.
+Inside Uldaman, second run:
+[A Horde] The ruby is in a Shadowforge Cache [QC2339,1 Find the Gems and Power Source], the sapphire drops from Grimlok [QC2339,2 Find the Gems and Power Source] and the topaz is in a Conspicuous Urn [QC2339,3 Find the Gems and Power Source]
+[A Horde] Archaedas drops the power source [QC2339,4 Find the Gems and Power Source]
+[A Alliance] Find the Tablet of Will [QC1139 The Lost Tablets of Will] \\ Only after Advisor Belgrum gives you The Lost Tablets of Will; see below.
 
-Go to ULDAMAN pt2 \\ Inside, turn in [QT2284 Necklace Recovery take 2] and pickup the followup [QA2318 Translating the Journal] from the Remains of a Paladin.
+[A Horde] Leave the dungeon and the cave [G44.6,12.1 Badlands][G53.5,13.8 Badlands] [OC]
+[A Horde] South past Angor Fortress [G55,25 Badlands] [OC]
+[A Horde] South-west across the plain [G48.5,44 Badlands][G42,41 Badlands] [OC]
+[A Horde] West across the plain [G18,42 Badlands] [OC]
+[A Horde] Jarkal Mossmeld takes [QT2339 Find the Gems and Power Source] and gives [QA2340 Deliver the Gems] [G2.4,46.1 Badlands]
+[A Horde] Fly to Undercity [F Undercity] [G4.0,44.9 Badlands]
+[A Horde] Patrick Garrett takes [QT2342 Reclaimed Treasures] [G62.3,48.6 Undercity]
+[A Horde] Leave Undercity by the main gate: north through the city, up the lift and out through the ruins [G56.8,73.5 Undercity][G56.8,54.7 Undercity][G56.8,17.2 Undercity][G61.8,65.0 Tirisfal Glades]
+[A Horde] Take the zeppelin to Durotar [G61.2,58.9 Tirisfal Glades]
+[A Horde] Into Orgrimmar by the main gate [G45.5,12.0 Durotar][G45.3,63.7 Orgrimmar] [OC]
+[A Horde] Dran Droffers takes [QT2340 Deliver the Gems] and gives [QA2341 Necklace Recovery, Take 3] [G59.5,36.6 Orgrimmar] \\ Needs level 40.
+[A Horde] Back to the flight master [G45.3,63.7 Orgrimmar] [OC]
+[A Horde] Fly to Thunder Bluff from Doras if you have that flight path [G45.3,63.7 Orgrimmar]
+[A Horde][OC]No Thunder Bluff flight path: leave Orgrimmar and take the road south through Durotar and over the Southfury bridge, then south-west on the road to the Crossroads [G45.5,12.0 Durotar][G41.0,25.0 Durotar][G34.5,42.5 Durotar][G61.8,20.0 The Barrens][G55.0,24.5 The Barrens][G52.0,30.0 The Barrens]
+[A Horde][OC]No Thunder Bluff flight path: west on the road, through the pass into Mulgore, south across the plains *(the elite Enforcer Emilgund may be near)* and up the lift into Thunder Bluff [G43.0,31.0 The Barrens][G35.5,27.5 The Barrens][G49.9,15.0 Mulgore][G42.1,24.9 Mulgore][G39.0,33.1 Mulgore]
+[A Horde] At Tal, get the Thunder Bluff flight path [P Thunder Bluff] [G47.0,49.8 Thunder Bluff]
+[A Horde] Sage Truthseeker on the Elder Rise takes [QT2280 The Platinum Discs] [G34.4,46.9 Thunder Bluff] \\ The follow-up 2440 goes to Bena Winterhoof and leads on to 2965, a quest outside Uldaman, so it is left out.
+[A Horde] Fly to Orgrimmar [F Orgrimmar] [G47.0,49.8 Thunder Bluff]
+[A Horde] Leave Orgrimmar by the main gate and take the zeppelin to Tirisfal Glades [G45.5,12.0 Durotar][G51.0,13.9 Durotar]
+[A Horde] Walk south into Undercity [G61.8,65.0 Tirisfal Glades][G56.8,17.2 Undercity] [OC]
+[A Horde] Fly to Kargath [F Kargath] [G63.1,48.3 Undercity]
+[A Horde] Jarkal Mossmeld takes [QT2341 Necklace Recovery, Take 3] [G2.4,46.1 Badlands]
 
-Turn in [QT2318 Translating the Journal] [G2.6,46 Badlands] \\ Accept [QA2338 Translating the Journal] and complete [QT2338 Translating the Journal] again. \\ Accept [QA2339 Find the Gems and Power Source]
-
-Go to ULDAMAN pt3 - Complete the following objective: \\ [QC2339 Find the Gems and Power Source] \\ - The Topaz is in a Conspicuous Urn in the room with the three lost vikings (where you get the Gni'kiv Medallion) \\ - Shattered Necklace Ruby is in the Shadowforge Stash in the room with Galgann Firehammer. When you loot the chest, two mobs will spawn \\ - Sapphire drops from Grim'lok \\ - Power Source from Archaedas
-If you still haven't complete [QC2418 Power Stones], farm it outside the instance.
-
-In Badlands, turn in [QT2339 Find the Gems and Power Source] [G2.6,46 Badlands] and accept [QA2340 Deliver the Gems]
-Turn in [QT2418 Power Stones] [G42.4,52.8 Badlands]
-Go to Orgrimmar and turn in [QT2340 Deliver the Gems] [G59.4,36.8 Orgrimmar] and accept [QA2341 Necklace Recovery Take 3]
-Head to Badlands and turn in [QT2341 Necklace Recovery Take 3] [G2.6,46 Badlands] \\ And you are *done!*
-
-]], 'DungeonQuests - JanRK')
+-- Alliance: after the first run.
+[A Alliance] Leave the dungeon and the cave [G44.6,12.1 Badlands][G53.5,13.8 Badlands] [OC]
+[A Alliance] North into Loch Modan [G43.2,67.8 Loch Modan] [OC]
+[A Alliance] East along the south shore to the excavation site [G52,70 Loch Modan][G65.9,65.6 Loch Modan] [OC]
+[A Alliance] Prospector Ironband takes [QT704 Agmond's Fate] [G65.9,65.6 Loch Modan]
+[A Alliance] West round the lake [G52,70 Loch Modan][G43.2,67.8 Loch Modan] [OC]
+[A Alliance] Ghak Healtouch takes [QT17 Uldaman Reagent Run] [G37.1,49.4 Loch Modan]
+[A Alliance] Fly to Ironforge [F Ironforge] [G33.9,50.8 Loch Modan]
+[A Alliance] Up to the Hall of Explorers [G77.5,11.8 Ironforge] [OC]
+[A Alliance] Krom Stoutarm takes [QT1360 Reclaimed Treasures] [G74.2,9.4 Ironforge]
+[A Alliance] Prospector Stormpike takes [QT2240 The Hidden Chamber] [G74.6,11.7 Ironforge]
+[A Alliance] Advisor Belgrum takes [QT762 An Ambassador of Evil] and gives [QA1139 The Lost Tablets of Will] [G77.3,9.7 Ironforge]
+[A Alliance] High Explorer Magellas takes [QT2279 The Platinum Discs] and gives [QA2439 The Platinum Discs] [G69.9,18.6 Ironforge]
+[A Alliance] Down to the Vault [G33.9,59.1 Ironforge] [OC]
+[A Alliance] Dinita Stonemantle takes [QT2439 The Platinum Discs] [G33.9,59.1 Ironforge]
+[A Alliance] North to the Mystic Ward [G36.4,3.6 Ironforge] [OC]
+[A Alliance] Talvash del Kissel takes [QT2204 Restoring the Necklace] and gives [QA2361 Restoring the Necklace] [G36.4,3.6 Ironforge]
+[A Alliance] Talvash del Kissel takes [QT2361 Restoring the Necklace] [G36.4,3.6 Ironforge]
+[A Alliance] Run Uldaman again for the Tablet of Will (see the second run above), then come back here [G36.4,3.6 Ironforge] \\ Fly to Thelsamar and take the Loch Modan road south as before.
+[A Alliance] Advisor Belgrum takes [QT1139 The Lost Tablets of Will] [G77.3,9.7 Ironforge]
+]], "Dungeon Quests")

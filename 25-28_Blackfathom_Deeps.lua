@@ -1,0 +1,85 @@
+Guidelime.registerGuide([[
+[D Quests for Blackfathom Deeps \\ https://github.com/JanRK/Guidelime_DungeonQuests]
+[N 25-28 Blackfathom Deeps]
+[NX 26-29 The Stockade]
+
+-- Alliance: Ironforge, then by boat to Auberdine and Darnassus, then south to the Zoram Strand.
+[A Alliance] In the Forlorn Cavern, take [QA971 Knowledge in the Deeps] from Gerrig Bonegrip [G50.8,5.6 Ironforge]
+[A Alliance] Go to the flight master [G55.9,47.9 Ironforge]
+[A Alliance] Fly to Menethil Harbor [F Menethil Harbor]
+[A Alliance] Walk to the end of the pier [G4.5,56.7 Wetlands]
+[A Alliance] Take the boat to Auberdine [G32.3,44.1 Darkshore]
+[A Alliance] Walk up the pier into the village [G32.7,41.9 Darkshore][G37,44 Darkshore]
+[A Alliance] Take [QA1275 Researching the Corruption] from Gershala Nightwhisper [G38.3,43.0 Darkshore]
+[A Paladin, Alliance] On *The Test of Righteousness*, take [QA1442 Seeking the Kor Gem] from Thundris Windweaver [G37.4,40.1 Darkshore]
+[A Alliance] Go back to the pier crossing [G37,44 Darkshore][G32.7,41.9 Darkshore]
+[A Alliance] Take the boat to Rut'theran Village [G33.3,39.8 Darkshore]
+[A Alliance] Walk up from the pier to the portal on the hill and step in [G54.8,97.2 Teldrassil][G55.2,89.2 Teldrassil]
+[A Alliance] Cross the bridges east to the Craftsmen's Terrace [G30.0,41.2 Darnassus][G41.0,37.8 Darnassus][G52.4,25.3 Darnassus]
+[A Alliance] Take [QA1198 In Search of Thaelrid] from Dawnwatcher Shaedlass [G55.4,25.0 Darnassus]
+[A Alliance] Take [QA1199 Twilight Falls] from Argent Guard Manados [G55.2,24.0 Darnassus]
+[A Alliance] Go back to the portal [G52.4,25.3 Darnassus][G41.0,37.8 Darnassus][G30.0,41.2 Darnassus]
+[A Alliance] Walk down to the pier [G55.2,89.2 Teldrassil][G54.8,97.2 Teldrassil]
+[A Alliance] Take the boat back to Auberdine [G33.3,39.8 Darkshore]
+[A Alliance] Walk into the village and out east to the road *(Shadowclaw, an elite worg, may roam east of the village)* [G32.7,41.9 Darkshore][G37,44 Darkshore][G41,40 Darkshore]
+[A Alliance] Follow the road south *(Lady Moongazer and Carnivous the Breaker, both elite, may roam near the road)* [G44,58 Darkshore][G44,76 Darkshore]
+[A Alliance] Keep south into Ashenvale [G43,92 Darkshore][G28,14 Ashenvale]
+[A Alliance] Go west through the forest to the ruins on the Zoram Strand *(Blackfathom Tide Priestesses and Fallenroot Satyrs, level 20-25, some of them elite, stand around the entrance)* [G14.5,14.2 Ashenvale]
+
+-- Horde: fly to Splintertree Post and run west across Ashenvale to Zoram'gar Outpost.
+[A Horde] Fly to Splintertree Post [F Splintertree Post]
+[A Horde] Take the road west *(Shadumbra, a level 28 nightsaber, may prowl near the road)* [G73.3,61.7 Ashenvale][G58,55 Ashenvale]
+[A Horde] Keep west, south of Astranaar *(keep clear of the Astranaar guards)* [G39,61 Ashenvale][G29,50 Ashenvale]
+[A Horde] Go north past Maestra's Post *(Liladris Moonriver, level 42 Alliance, stands at the post: give it a wide berth)* [G27,36 Ashenvale]
+[A Horde] Go west to Zoram'gar Outpost on the coast and get the flight path [P Zoram'gar Outpost] [G12.2,33.8 Ashenvale]
+[A Horde] Take [QA6563 The Essence of Aku'Mai] and [QA6921 Amongst the Ruins] from Je'neu Sancrea [G11.6,34.3 Ashenvale]
+[A Paladin, Horde] Take [QA95042 Seeking the Kor Gem] from Ulric Frostveil [G11.8,34.5 Ashenvale]
+[A Horde] Go north along the beach *(Lady Vespia, elite 22, may roam the beach)* [G11.6,34.3 Ashenvale][G13.1,24.9 Ashenvale]
+[A Horde] Keep north to the ruins on the Zoram Strand *(Blackfathom Tide Priestesses and Fallenroot Satyrs, level 20-25, some of them elite, stand around the entrance)* [G14.5,14.2 Ashenvale]
+[A Horde] Kill Blackfathom Tide Priestesses around the ruins until one drops a Damp Note, then read it to start [QA6564 Allegiance to the Old Gods] [G13.6,12.1 Ashenvale]
+[A Horde] Go back down the beach to Zoram'gar Outpost *(Lady Vespia, elite 22, may roam the beach)* [G14.5,14.2 Ashenvale][G13.1,24.9 Ashenvale][G11.6,34.3 Ashenvale]
+[A Horde] Turn in [QT6564 Allegiance to the Old Gods] to Je'neu Sancrea, take [QA6565 Allegiance to the Old Gods] [G11.6,34.3 Ashenvale]
+[A Horde] Go north along the beach to the entrance again *(Lady Vespia, elite 22, may roam the beach)* [G13.1,24.9 Ashenvale][G14.5,14.2 Ashenvale]
+
+[A Paladin, Alliance] Kill Blackfathom Tide Priestesses or Oracles near the entrance for a Corrupted Kor Gem [QC1442,1 Seeking the Kor Gem] [G13.6,12.1 Ashenvale]
+[A Paladin, Horde] Kill Blackfathom Tide Priestesses or Oracles near the entrance for a Corrupted Kor Gem [QC95042,1 Seeking the Kor Gem] [G13.6,12.1 Ashenvale]
+
+Inside Blackfathom Deeps:
+[A Horde] Loot Sapphires of Aku'Mai from the blue crystals on the cave walls [QC6563 The Essence of Aku'Mai]
+[A Alliance] Kill naga and satyrs for Corrupted Brain Stems [QC1275 Researching the Corruption]
+[A Alliance] Kill Twilight cultists for Twilight Pendants [QC1199 Twilight Falls]
+[A Warlock] On *The Orb of Soran'ruk*: kill Twilight Acolytes for Soran'ruk Fragments [QC1740,1 The Orb of Soran'ruk]
+[A Alliance] Past Ghamoo-ra's turtle room, open the Pitted Iron Chest under the water in the north alcove [QC971 Knowledge in the Deeps]
+[A Horde] Kill Lorgus Jett [QC6565 Allegiance to the Old Gods]
+[A Horde] At the Moonshrine, click the Fathom Stone in the water to get the Fathom Core [QC6921 Amongst the Ruins]
+[A Horde] Kill Baron Aquanis when he rises, loot the Strange Water Globe and start [QA6922 Baron Aquanis]
+[A Alliance] Turn in [QT1198 In Search of Thaelrid] to Argent Guard Thaelrid before taking his quest
+[A Alliance] Take [QA1200 Blackfathom Villainy] from Argent Guard Thaelrid
+[A Horde] Take [QA6561 Blackfathom Villainy] from Argent Guard Thaelrid
+[A Alliance] Kill Twilight Lord Kelris and take his head [QC1200 Blackfathom Villainy]
+[A Horde] Kill Twilight Lord Kelris and take his head [QC6561 Blackfathom Villainy]
+
+-- Horde turn-ins.
+[A Horde] Leave the dungeon and go back down the beach *(Lady Vespia, elite 22, may roam the beach)* [G14.5,14.2 Ashenvale][G13.1,24.9 Ashenvale][G11.6,34.3 Ashenvale]
+[A Horde] Turn in [QT6563 The Essence of Aku'Mai], [QT6565 Allegiance to the Old Gods], [QT6921 Amongst the Ruins] and [QT6922 Baron Aquanis] to Je'neu Sancrea [G11.6,34.3 Ashenvale]
+[A Paladin, Horde] Turn in [QT95042 Seeking the Kor Gem] to Ulric Frostveil [G11.8,34.5 Ashenvale]
+[A Horde] Fly to Thunder Bluff [F Thunder Bluff] [G12.2,33.8 Ashenvale]
+[A Horde] Turn in [QT6561 Blackfathom Villainy] to Bashana Runetotem on the Elder Rise [G71.1,34.2 Thunder Bluff]
+
+-- Alliance turn-ins.
+[A Alliance] Leave the dungeon and go east back to the road [G14.5,14.2 Ashenvale][G28,14 Ashenvale]
+[A Alliance] Follow the road north to Auberdine *(Carnivous the Breaker, Lady Moongazer and Shadowclaw, all elite, may roam near the road)* [G43,92 Darkshore][G44,76 Darkshore][G44,58 Darkshore][G41,40 Darkshore]
+[A Paladin, Alliance] Turn in [QT1442 Seeking the Kor Gem] to Thundris Windweaver [G37.4,40.1 Darkshore]
+[A Alliance] Turn in [QT1275 Researching the Corruption] to Gershala Nightwhisper [G38.3,43.0 Darkshore]
+[A Alliance] Go to the pier [G37,44 Darkshore][G32.7,41.9 Darkshore]
+[A Alliance] Take the boat to Rut'theran Village [G33.3,39.8 Darkshore]
+[A Alliance] Walk up to the portal and step in [G54.8,97.2 Teldrassil][G55.2,89.2 Teldrassil]
+[A Alliance] Cross to the Craftsmen's Terrace [G30.0,41.2 Darnassus][G41.0,37.8 Darnassus][G52.4,25.3 Darnassus]
+[A Alliance] Turn in [QT1199 Twilight Falls] to Argent Guard Manados [G55.2,24.0 Darnassus]
+[A Alliance] Turn in [QT1200 Blackfathom Villainy] to Dawnwatcher Selgorm [G56.2,24.4 Darnassus]
+[A Alliance] Go back through the portal and take the boat to Auberdine [G30.0,41.2 Darnassus][G54.8,97.2 Teldrassil]
+[A Alliance] Walk to the pier for the Menethil boat [G32.7,41.9 Darkshore][G32.3,44.1 Darkshore]
+[A Alliance] Take the boat to Menethil Harbor [G4.5,56.7 Wetlands]
+[A Alliance] Fly to Ironforge [F Ironforge] [G9.5,59.7 Wetlands]
+[A Alliance] Turn in [QT971 Knowledge in the Deeps] to Gerrig Bonegrip in the Forlorn Cavern [G50.8,5.6 Ironforge]
+]], 'DungeonQuests - JanRK')
