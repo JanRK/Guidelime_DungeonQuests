@@ -10,17 +10,17 @@ Guidelime.registerGuide([[
 [O]Follow the Riverglades road north, then east to Powderfuse Port [G33.3,68.6 Riverglades][G58,63.9 Riverglades][G80.6,54.6 Riverglades] \\ Riverglades is contested, level 36-44: stick to the road. Gul'gash (elite, 49) stands near the port at 81,53: keep clear.
 [O]Take the boat to Steamwheedle Port [G68.6,23 Tanaris]
 [OC]Optional: get the [P Gadgetzan] flight path [G51.0,29.3 Tanaris] (west of the coast; skip unless you want it)
-[O]Follow the coast south to the book [G67.4,36 Tanaris]
+[O]Follow the coast south to the book [CI 220346 Legends of the Tidesages] [G67.4,36 Tanaris]
 Loot *Legends of the Tidesages* [CI 220346 Legends of the Tidesages] [G72.7,47.8 Tanaris] \\ Southsea pirates (44-45) hold Lost Rigger Cove and Kregg Keelhaul (elite, 47) stands among them: pull one at a time and keep away from Kregg.
 [O]Run back north to Steamwheedle Port and take the boat to Powderfuse Port [G67.4,36 Tanaris][G68.6,23 Tanaris][G80.6,54.6 Riverglades]
 [O]Follow the Riverglades road west and north into the Badlands [G58,63.9 Riverglades][G33.3,68.6 Riverglades][G32,41.4 Riverglades] \\ A Twilight camp (level 42-46, with elites) sits just west of the road near 28,43: keep to the east side and do not stop.
 [O]Follow the Badlands road north, then west through the pass into Searing Gorge [G54.8,88.5 Badlands][G54.8,61.5 Badlands][G30,57.2 Badlands][G2,56.7 Badlands] \\ Kargath (Horde guards) is north of the pass at 4,45: keep south of it. Enraged Rock Elementals (42-43) roam the south road near 53,80: keep moving.
 [OC]Optional: get the [P Thorium Point] flight path [G37.9,30.4 Searing Gorge] (north of the book; skip unless you want it)
-[O]Follow the gorge road west to the book [G80,48.2 Searing Gorge][G57.8,48.8 Searing Gorge]
+[O]Follow the gorge road west to the book [CI 220352 A Mind of Metal] [G80,48.2 Searing Gorge][G57.8,48.8 Searing Gorge]
 Loot *A Mind of Metal* [CI 220352 A Mind of Metal] [G37.8,49.3 Searing Gorge] \\ Dark Iron dwarves (46-47) guard the book: pull one at a time. Firelands Invaders (54-55), Lieutenant Skarresh (58-60) and Infernus Siege Giants (60) walk the middle road near 47,49 and the book; Scald (elite, 49) and Iodax the Obliterator (50) roam near 51,47 and 67,47: wait for a gap and keep well away.
 [O]Run back east through the pass and north up the Badlands road into Loch Modan [G57.8,48.8 Searing Gorge][G80,48.2 Searing Gorge][G2,56.7 Badlands][G30,57.2 Badlands][G54.8,61.5 Badlands][G56.7,39.9 Badlands][G53.5,13.8 Badlands]
 [OC]Optional: get the [P Thelsamar] flight path [G33.9,50.8 Loch Modan]
-[O]Follow the Loch Modan road north, then east along the north shore to the book [G43.2,67.8 Loch Modan][G33.9,50.8 Loch Modan][G26.3,22.5 Loch Modan][G50,21.6 Loch Modan]
+[O]Follow the Loch Modan road north, then east along the north shore to the book [CI 209850 Runes of the Sorcerer-Kings] [G43.2,67.8 Loch Modan][G33.9,50.8 Loch Modan][G26.3,22.5 Loch Modan][G50,21.6 Loch Modan]
 Loot *Runes of the Sorcerer-Kings* [CI 209850 Runes of the Sorcerer-Kings] [G77.4,14 Loch Modan] \\ The book is in the Mo'grosh Stronghold: the Mo'grosh ogres (18-22) are all elite, Chok'sul with them. Easy at 47, but pull one at a time.
 [O]Run back west and north through Dun Algaz into the Wetlands [G50,21.6 Loch Modan][G26.3,22.5 Loch Modan][G25.5,11.5 Loch Modan]
 [O]Follow the Wetlands road north and west to the Menethil Harbor pier for the Southshore boat [G55.1,73.7 Wetlands][G57,49.5 Wetlands][G49.7,26 Wetlands][G39.2,35.1 Wetlands][G33.6,47.9 Wetlands][G22.4,48.7 Wetlands][G12.3,52.2 Wetlands][G4.5,56.7 Wetlands]
@@ -29,9 +29,9 @@ Loot *Runes of the Sorcerer-Kings* [CI 209850 Runes of the Sorcerer-Kings] [G77.
 [OC]Optional: get the [P Southshore] flight path [G49.4,52.1 Hillsbrad Foothills]
 [O]Run north-east over the river bridge and past Durnholde to the Hinterlands [G50,58 Hillsbrad Foothills][G62,41 Hillsbrad Foothills][G73,28 Hillsbrad Foothills] \\ Tarren Mill (Horde guards) is north-west of this road: keep east of it.
 [OC]Optional: get the [P Aerie Peak] flight path [G11.1,46.1 The Hinterlands]
-[O]Run through Aerie Peak, east along the road, then south to the book [G9,44 The Hinterlands][G14,46 The Hinterlands][G25,48 The Hinterlands]
+[O]Run through Aerie Peak, east along the road, then south to the book [CI 220350 Venomous Journeys] [G9,44 The Hinterlands][G14,46 The Hinterlands][G25,48 The Hinterlands]
 Loot *Venomous Journeys* [CI 220350 Venomous Journeys] [G36,72.8 The Hinterlands] \\ The book is at Shadra'Alor: Witherbark trolls (44-46): pull one at a time. Witherheart the Stalker (rare elite, 45) prowls near 33,70: keep away.
-[O]Run back to Southshore and north into the Alterac foothills [G25,48 The Hinterlands][G14,46 The Hinterlands][G9,44 The Hinterlands][G73,28 Hillsbrad Foothills][G62,41 Hillsbrad Foothills][G50,58 Hillsbrad Foothills][G50,30 Hillsbrad Foothills]
+[O]Run back to Southshore and north into the Alterac foothills [CI 215815 Defensive Magics 101] [G25,48 The Hinterlands][G14,46 The Hinterlands][G9,44 The Hinterlands][G73,28 Hillsbrad Foothills][G62,41 Hillsbrad Foothills][G50,58 Hillsbrad Foothills][G50,30 Hillsbrad Foothills]
 Loot *Defensive Magics 101* [CI 215815 Defensive Magics 101] [G48.4,57.6 Alterac Mountains] \\ The Crushridge ogres (34-36) around the book are mostly elite: pull one at a time.
 [O]Run back to the Southshore pier [G50,30 Hillsbrad Foothills][G50,58 Hillsbrad Foothills][G50.7,70.4 Hillsbrad Foothills]
 [O]Take the boat to Auberdine [G32.3,44.1 Darkshore]

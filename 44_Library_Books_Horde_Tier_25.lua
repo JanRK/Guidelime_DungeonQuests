@@ -7,16 +7,16 @@ Guidelime.registerGuide([[
 [OC]Optional: get the [P The Sepulcher] flight path [G45.6,42.4 Silverpine Forest]
 [O]Follow the Silverpine road south to the Hillsbrad road [G60,20 Silverpine Forest][G50,40 Silverpine Forest][G56,62 Silverpine Forest][G60,68 Silverpine Forest] \\ Son of Arugal (elite) can spawn at night in south Silverpine: run if you see him.
 [OC]Optional: get the [P Tarren Mill] flight path [G60.1,18.6 Hillsbrad Foothills]
-[O]Follow the Hillsbrad road east to the river bridge, then north-west into the Alterac foothills [G15,45 Hillsbrad Foothills][G35,48 Hillsbrad Foothills][G62,41 Hillsbrad Foothills][G55,36 Hillsbrad Foothills][G50,30 Hillsbrad Foothills] \\ Southshore (Alliance guards) lies south of the road at 35,48: do not turn south. Southshore Defenders (55) can march on Tarren Mill near 54,34: wait for them to pass.
+[O]Follow the Hillsbrad road east to the river bridge, then north-west into the Alterac foothills [CI 215815 Defensive Magics 101] [G15,45 Hillsbrad Foothills][G35,48 Hillsbrad Foothills][G62,41 Hillsbrad Foothills][G55,36 Hillsbrad Foothills][G50,30 Hillsbrad Foothills] \\ Southshore (Alliance guards) lies south of the road at 35,48: do not turn south. Southshore Defenders (55) can march on Tarren Mill near 54,34: wait for them to pass.
 Loot *Defensive Magics 101* [CI 215815 Defensive Magics 101] [G48.4,57.6 Alterac Mountains] \\ The Crushridge ogres (34-36) around the book are mostly elite: pull one at a time.
 [O]Run back to the river bridge and north-east past Durnholde to the Hinterlands [G50,30 Hillsbrad Foothills][G55,36 Hillsbrad Foothills][G62,41 Hillsbrad Foothills][G73,28 Hillsbrad Foothills]
-[O]Go through the Hinterlands gate, keep south of Aerie Peak, and run east and south to the book [G9,44 The Hinterlands][G14,52 The Hinterlands][G25,52 The Hinterlands]
+[O]Go through the Hinterlands gate, keep south of Aerie Peak, and run east and south to the book [CI 220350 Venomous Journeys] [G9,44 The Hinterlands][G14,52 The Hinterlands][G25,52 The Hinterlands]
 Loot *Venomous Journeys* [CI 220350 Venomous Journeys] [G36,72.8 The Hinterlands] \\ Aerie Peak (Alliance guards) is just north at 14,46: do not go up there. The book is at Shadra'Alor: Witherbark trolls (44-46): pull one at a time. Witherheart the Stalker (rare elite, 45) prowls near 33,70: keep away.
 [O]Run back out of the Hinterlands and south-east past Durnholde to Thoradin's Wall [G25,52 The Hinterlands][G14,52 The Hinterlands][G9,44 The Hinterlands][G73,28 Hillsbrad Foothills][G62,41 Hillsbrad Foothills][G83.7,60 Hillsbrad Foothills] \\ Durnholde Keep's Syndicate (level 30-40) sits just north of the road: keep moving.
 [OC]Optional: get the [P Hammerfall] flight path [G73.1,32.6 Arathi Highlands] (north of the road; skip unless you want it)
 [O]Follow the Arathi road south-east and south-west to Thandol Span [G20.5,30.5 Arathi Highlands][G26.3,50.1 Arathi Highlands][G45.2,58.4 Arathi Highlands][G56.6,61.8 Arathi Highlands][G67.8,73.6 Arathi Highlands][G57.6,83 Arathi Highlands][G49.2,97 Arathi Highlands] \\ Witherbark elites roam the trolls' land: keep to the road.
 [O]Cross Thandol Span and follow the Wetlands road south to Dun Algaz [G51.3,10.1 Wetlands][G49.7,26 Wetlands][G57,49.5 Wetlands][G55.1,73.7 Wetlands] \\ Menethil Harbor (Alliance guards) is far west: do not go there.
-[O]Go through Dun Algaz and east along the north shore to the book [G25.5,11.5 Loch Modan][G26.3,22.5 Loch Modan][G50,21.6 Loch Modan]
+[O]Go through Dun Algaz and east along the north shore to the book [CI 209850 Runes of the Sorcerer-Kings] [G25.5,11.5 Loch Modan][G26.3,22.5 Loch Modan][G50,21.6 Loch Modan]
 Loot *Runes of the Sorcerer-Kings* [CI 209850 Runes of the Sorcerer-Kings] [G77.4,14 Loch Modan] \\ The book is in the Mo'grosh Stronghold: the Mo'grosh ogres (18-22) are all elite, Chok'sul with them. Easy at 44, but pull one at a time.
 [O]Run back west and south down the Loch Modan road, east of Thelsamar [G50,21.6 Loch Modan][G26.3,22.5 Loch Modan][G39.7,43.7 Loch Modan][G43.2,67.8 Loch Modan] \\ Thelsamar (Alliance guards) is at 34,50: keep east of it.
 [OC]Optional: get the [P Kargath] flight path [G4.0,44.9 Badlands] (far west of the road; skip unless you want it)
@@ -24,7 +24,7 @@ Loot *Runes of the Sorcerer-Kings* [CI 209850 Runes of the Sorcerer-Kings] [G77.
 [O]Follow the Riverglades road south, then east to Powderfuse Port [G32,41.4 Riverglades][G33.3,68.6 Riverglades][G58,63.9 Riverglades][G80.6,54.6 Riverglades] \\ Riverglades is contested, level 36-44: stick to the road. A Twilight camp (level 42-46, with elites) sits just west of the road near 28,43, and Gul'gash (elite, 49) stands near the port at 81,53: keep clear.
 [O]Take the boat to Steamwheedle Port [G68.6,23 Tanaris]
 [OC]Optional: get the [P Gadgetzan] flight path [G51.6,25.5 Tanaris] (west of the coast; skip unless you want it)
-[O]Follow the coast south to the book [G67.4,36 Tanaris]
+[O]Follow the coast south to the book [CI 220346 Legends of the Tidesages] [G67.4,36 Tanaris]
 Loot *Legends of the Tidesages* [CI 220346 Legends of the Tidesages] [G72.7,47.8 Tanaris] \\ Southsea pirates (44-45) hold Lost Rigger Cove and Kregg Keelhaul (elite, 47) stands among them: pull one at a time and keep away from Kregg.
 [O]Run back north to Steamwheedle Port and take the boat to Powderfuse Port [G67.4,36 Tanaris][G68.6,23 Tanaris][G80.6,54.6 Riverglades]
 [O]Follow the Riverglades road west and south into the Swamp of Sorrows [G58,63.9 Riverglades][G33.3,68.6 Riverglades][G34.6,94.8 Riverglades]

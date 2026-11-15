@@ -8,17 +8,17 @@ Guidelime.registerGuide([[
 [OC]Optional: get the [P Sentinel Hill] flight path [G56.6,52.7 Westfall]
 [O]Run to the Alexston Farmstead wreckage [G62,49 Westfall][G56,50 Westfall]
 Search the Burned-Out Remains at the Alexston Farmstead wreckage and accept [QA79008 ... and that note you found] [G37.4,50.7 Westfall] \\ The Barrens remains do nothing until you have this note.
-[O]Run to the Dagger Hills [G52,62 Westfall]
+[O]Run to the Dagger Hills [CI 209845 Bewitchments and Glamours] [G52,62 Westfall]
 Loot *Bewitchments and Glamours* [CI 209845 Bewitchments and Glamours] in the Dagger Hills [G45.4,70.4 Westfall] \\ Vultros (elite) flies over central Westfall, Foe Reaper 4000 (elite) walks the fields near 44,35 and Leprithus (elite) rises at night near 42,29: watch for them.
-[O]Run to Sentinel Hill [G52,62 Westfall]
+[O]Run to Sentinel Hill [CI 208860 Rumi of Gnomeregan: The Collected Works] [G52,62 Westfall]
 Loot *Rumi of Gnomeregan: The Collected Works* [CI 208860 Rumi of Gnomeregan: The Collected Works] in Sentinel Hill [G52.7,53.8 Westfall]
 [O]Run back east over the bridge into Elwynn [G56,50 Westfall][G62,49 Westfall]
-[O]Run to the Tower of Azora book [G24.5,74.5 Elwynn Forest][G33,71 Elwynn Forest][G42.1,65.9 Elwynn Forest][G52,66 Elwynn Forest][G62,67.5 Elwynn Forest]
+[O]Run to the Tower of Azora book [CI 203755 Archmage Theocritus' Research Journal] [G24.5,74.5 Elwynn Forest][G33,71 Elwynn Forest][G42.1,65.9 Elwynn Forest][G52,66 Elwynn Forest][G62,67.5 Elwynn Forest]
 Loot *Archmage Theocritus' Research Journal* [CI 203755 Archmage Theocritus' Research Journal] [G65.4,70.1 Elwynn Forest]
 [O]Run back to Stormwind and the Deeprun Tram in the Dwarven District [G62,67.5 Elwynn Forest][G52,66 Elwynn Forest][G42.1,65.9 Elwynn Forest][G38,58 Elwynn Forest][G32,49.6 Elwynn Forest][G72,27.6 Stormwind City]
 [O]Ride the tram to Ironforge [G84.1,53.1 Ironforge]
 [OC]Optional: get the [P Ironforge] flight path [G55.9,47.9 Ironforge] (hub: flies to every Alliance point in the Eastern Kingdoms)
-[O]Run to the book in Ironforge [G62,30 Ironforge]
+[O]Run to the book in Ironforge [CI 203754 Archmage Antonidas: The Unabridged Autobiography] [G62,30 Ironforge]
 Loot *Archmage Antonidas: The Unabridged Autobiography* [CI 203754 Archmage Antonidas: The Unabridged Autobiography] [G76,10.4 Ironforge]
 
 [O]Leave Ironforge and follow the Dun Morogh road east through North Gate Pass into Loch Modan [G62,30 Ironforge][G53.6,33.9 Dun Morogh][G65.5,51.3 Dun Morogh][G84.1,33.8 Dun Morogh][G20.7,17.5 Loch Modan][G26.3,22.5 Loch Modan]
@@ -32,7 +32,7 @@ Loot *Archmage Antonidas: The Unabridged Autobiography* [CI 203754 Archmage Anto
 [O]Follow the Barrens road north past Ratchet, then south-west past Camp Taurajo to the burnt tower [G62.8,53.6 The Barrens][G62.9,48 The Barrens][G62.7,39.7 The Barrens][G59,34 The Barrens][G55.5,38.6 The Barrens][G52,43.8 The Barrens][G50.4,49.8 The Barrens][G47.5,58 The Barrens][G45.5,66 The Barrens] \\ Camp Taurajo has Horde guards: keep east of it.
 Search the Burned-Out Remains: [QT79008 ... and that note you found] [G46.4,73.9 The Barrens]
 Read the Nailed Plank on the tower and accept [QA79192 Stepping Stones] [G46.4,73.8 The Barrens]
-[O]Run to the Wailing Caverns mouth [G45.5,66 The Barrens][G47.5,58 The Barrens][G50.4,49.8 The Barrens][G52,43.8 The Barrens][G55.5,38.6 The Barrens][G56,31 The Barrens]
+[O]Run to the Wailing Caverns mouth [CI 209846 Secrets of the Dreamers] [G45.5,66 The Barrens][G47.5,58 The Barrens][G50.4,49.8 The Barrens][G52,43.8 The Barrens][G55.5,38.6 The Barrens][G56,31 The Barrens]
 Loot *Secrets of the Dreamers* [CI 209846 Secrets of the Dreamers] at the Wailing Caverns mouth [G49.3,32.9 The Barrens] \\ The Crossroads has Horde guards: keep east and south of it. Deviate elites (15-17) guard the cave mouth: pull them one at a time or bring a friend.
 [O]Run west to the Stonetalon pass [G43,31 The Barrens][G35.5,27.5 The Barrens]
 [O]Go through the pass and follow the road west, then north past Webwinder Path [G82,96 Stonetalon Mountains][G71,89 Stonetalon Mountains][G60.5,81.7 Stonetalon Mountains][G58,67.2 Stonetalon Mountains][G54,61.4 Stonetalon Mountains] \\ Stonetalon mobs here are level 20-27: stick to the road.
@@ -43,9 +43,9 @@ Climb the hill north of the camp and drop from its edge to the Mound of Dirt bel
 [O]Run north up the east side of Stonetalon to the book, off the road [CI 209851 Fury of the Land] [G79.5,93.3 Stonetalon Mountains][G77.1,89.6 Stonetalon Mountains][G74.6,85.9 Stonetalon Mountains]
 Loot *Fury of the Land* [CI 209851 Fury of the Land] [G74.4,85.7 Stonetalon Mountains] \\ Grimtotem camps lie off the road: stick to it.
 [O]Run back through the pass into the Barrens [G82,96 Stonetalon Mountains]
-[O]Run north past the Crossroads to the book [G35.5,27.5 The Barrens][G43,31 The Barrens][G51,20 The Barrens]
+[O]Run north past the Crossroads to the book [CI 209847 Arcanic Systems Manual] [G35.5,27.5 The Barrens][G43,31 The Barrens][G51,20 The Barrens]
 Loot *Arcanic Systems Manual* [CI 209847 Arcanic Systems Manual] [G56.3,8.8 The Barrens] \\ Razormane elites (Berserker, Flesheater, level 18-19) roam the north road: watch for them. Keep clear of the Crossroads guards.
-[O]Run back to the road for Baxtan's book [G51,20 The Barrens][G56,31 The Barrens][G59,34 The Barrens]
+[O]Run back to the road for Baxtan's book [CI 208800 Baxtan: On Destructive Magics] [G51,20 The Barrens][G56,31 The Barrens][G59,34 The Barrens]
 Loot *Baxtan: On Destructive Magics* [CI 208800 Baxtan: On Destructive Magics] [G62.7,36.3 The Barrens] \\ Bruuz (elite, 20) patrols near the book.
 [O]Run south along the Barrens road and east through Dustwallow to Theramore [G59,34 The Barrens][G62.7,39.7 The Barrens][G62.9,48 The Barrens][G62.8,53.6 The Barrens][G53.5,10.7 Dustwallow Marsh][G57.2,20.8 Dustwallow Marsh][G61.3,27 Dustwallow Marsh][G63.5,38 Dustwallow Marsh][G66.8,48 Dustwallow Marsh][G71.7,56.7 Dustwallow Marsh]
 
@@ -61,12 +61,12 @@ Go through the room in the wall and look out to the right: click the hanging Mes
 
 [OC]Optional: get the [P Southshore] flight path [G49.4,52.1 Hillsbrad Foothills]
 [O]Follow the Hillsbrad road west to Silverpine [G83.7,54.4 Hillsbrad Foothills][G83.7,60 Hillsbrad Foothills][G62,41 Hillsbrad Foothills][G35,48 Hillsbrad Foothills][G15,45 Hillsbrad Foothills] \\ Hillsbrad mobs are above your level, and Tarren Mill (Horde guards) is north of the road: stick to the road.
-[O]Run to Ambermill [G60,68 Silverpine Forest]
+[O]Run to Ambermill [CI 209844 The Dalaran Digest, Vol. 23] [G60,68 Silverpine Forest]
 Loot *The Dalaran Digest, Vol. 23* [CI 209844 The Dalaran Digest, Vol. 23] [G63.5,63.2 Silverpine Forest] \\ Son of Arugal (elite) can spawn at night in south Silverpine: run if you see him. Silverpine mobs here reach your level and above: stick to the road.
 [O]Run back to the Southshore pier [G60,68 Silverpine Forest][G15,45 Hillsbrad Foothills][G35,48 Hillsbrad Foothills][G50,58 Hillsbrad Foothills][G50.7,70.4 Hillsbrad Foothills]
 [O]Take the boat to Auberdine [G32.3,44.1 Darkshore]
 [OC]Optional: get the [P Auberdine] flight path [G36.4,45.6 Darkshore] (hub: flies to every Alliance point in Kalimdor)
-[O]Follow the road north-east to the book [G37,44 Darkshore][G41,40 Darkshore][G46,30 Darkshore][G52,25 Darkshore]
+[O]Follow the road north-east to the book [CI 209843 Nar'thalas Almanac, Vol. 74] [G37,44 Darkshore][G41,40 Darkshore][G46,30 Darkshore][G52,25 Darkshore]
 Loot *Nar'thalas Almanac, Vol. 74* [CI 209843 Nar'thalas Almanac, Vol. 74] [G59.6,22.2 Darkshore] \\ Baron Marinous and Lady Vespira walk the coast nearby: keep your distance.
 [O]Run back to Auberdine and the Stormwind boat pier [G52,25 Darkshore][G46,30 Darkshore][G41,40 Darkshore][G37,44 Darkshore][G30.5,40.9 Darkshore] \\ Optional: if your hearthstone is set in Stormwind, hearth now [H] instead.
 [O]Take the boat to Stormwind [G21.8,56.9 Stormwind City]
